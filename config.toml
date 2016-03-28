@@ -1,0 +1,7 @@
+baseurl = "http://www.kingsgate5hoa.com/"
+languageCode = "en-us"
+title = "Kingsgate 5 Homeowner's Association"
+
+[Params]
+  FeaturedImage = "img/sunburst.jpg"
+
