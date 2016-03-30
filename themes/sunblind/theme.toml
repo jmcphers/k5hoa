@@ -1,0 +1,9 @@
+name = "Sunblind"
+license = "MIT"
+description = "Sunblind"
+min_version = 0.14
+
+[author]
+  name = "Jonathan McPherson"
+  homepage = "http://about.me/jmcphers"
+

@@ -1,0 +1,47 @@
+.site-title {
+  text-align: center;
+  color: white;
+}
+
+.site-title h1 {
+  letter-spacing: 0.1em;
+  border: 3px solid white;
+  padding: 15px;
+  overflow: hidden;
+  display: inline-block;
+  text-transform: uppercase;
+  font-weight: light;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0.5em;
+}
+
+.site-title h2 {
+  margin-top: 0;
+  text-transform: lowercase;
+  font-style: italic;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.header {
+  height: 500px;
+  margin-bottom: 60px
+  font-family: Georgia;
+}
+
+@media (max-width: 700px) {
+  .header {
+    height: 300px;
+  }
+  .site-title {
+    height: 180px;
+    width: 50%;
+    margin-top: -1%;
+    margin-left: 25%;
+    display: table;
+  }
+}

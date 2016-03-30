@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+
+<header class="header" style="background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/sunburst.jpg) 49.9% 49.9% / cover;" role="banner">
+  <div class="site-title">
+    <h1>{{ .Site.Title }}</h1>
+    <h2>{{ .Site.Params.Subtitle }}</h2>
+  </div>
+  <nav id="menu" role="navigation">
+    <ul>
+    {{ range .Data.Pages }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+  </nav>
+</header>
+
+
+{{ partial "footer.html" . }}
