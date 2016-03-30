@@ -33,6 +33,41 @@ body {
   font-family: Georgia;
 }
 
+nav {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  font-size: large;
+  overflow: hidden;
+  display: inline-block;
+}
+
+nav li, 
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+nav li:after
+{
+  content: ' |';
+}
+
+nav li:last-child:after
+{
+  content: '';
+}
+
 @media (max-width: 700px) {
   .header {
     height: 300px;
