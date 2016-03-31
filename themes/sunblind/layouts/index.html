@@ -16,5 +16,16 @@
   </nav>
 </header>
 
+<div class="posts">
+  {{ range first 10 .Data.Pages }}
+    {{ if eq .Type "post" }}
+    <article>
+      <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+      <h2>{{ .Date.Format "January 1, 2006" }}</h2>
+      <p>{{ .Summary }}</p>
+    </article>
+    {{ end }}
+  {{ end }}
+</div>
 
 {{ partial "footer.html" . }}

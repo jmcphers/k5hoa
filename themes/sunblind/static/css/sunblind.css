@@ -4,33 +4,55 @@
 }
 
 .site-title h1 {
-  letter-spacing: 0.1em;
+  letter-spacing: 0.2em;
   border: 3px solid white;
   padding: 15px;
   overflow: hidden;
   display: inline-block;
   text-transform: uppercase;
   font-weight: light;
+  margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 0.5em;
+  font-family: "Open Sans", sans-serif;
 }
 
 .site-title h2 {
   margin-top: 0;
-  text-transform: lowercase;
+  font-weight: 300;
+  font-size: medium;
+  font-family: "Merriweather", serif;
+}
+
+article h1 {
+  font-family: "Merriweather", serif;
+  margin-bottom: 5px;
+}
+
+article h1 a {
+  text-decoration: none;
+}
+
+article h2 {
+  font-family: "Merriweather", serif;
   font-style: italic;
+  font-weight: 300;
+  color: #808080;
+  font-size: medium;
+  margin-top: 0.5em;
 }
 
 body {
   margin: 0px;
   padding: 0px;
+  font-family: "Open Sans", sans-serif;
 }
 
 .header {
   height: 500px;
-  margin-bottom: 60px
-  font-family: Georgia;
+  margin-bottom: 60px;
+  color: white;
 }
 
 nav {
@@ -48,6 +70,7 @@ nav ul {
 
 nav li, 
 nav a {
+  font-family: "Open Sans", sans-serif;
   color: white;
   text-decoration: none;
 }
@@ -56,16 +79,13 @@ nav li {
   display: inline-block;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  margin-right: 2em;
+  margin-left: 2em;
 }
 
-nav li:after
-{
-  content: ' |';
-}
-
-nav li:last-child:after
-{
-  content: '';
+.posts {
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 @media (max-width: 700px) {
@@ -78,5 +98,12 @@ nav li:last-child:after
     margin-top: -1%;
     margin-left: 25%;
     display: table;
+  }
+  .site-title h1 {
+    margin-top: 20px;
+  }
+  .posts { 
+    margin-left: 5%;
+    margin-right: 5%;
   }
 }
