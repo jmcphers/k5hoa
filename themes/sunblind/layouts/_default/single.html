@@ -1,7 +1,22 @@
 {{ partial "header.html" . }}
 
-<h1>{{ .Title }}</h1>
+<header class="section-header" style="background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url({{ .Site.BaseURL }}{{ .Params.banner }}) 49.9% 49.9% / cover;" role="banner">
+  <nav id="menu" role="navigation">
+    <ul>
+    {{ range .Data.Pages }}
+      {{ if eq .Type "page" }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+    </ul>
+  </nav>
+  <h1>{{ .Title }}</h1>
+</header>
 
-<p>{{ .Content }}</p>
+
+<div class="content">
+{{ .Content }}
+</div>
+
 
 {{ partial "footer.html" . }}
