@@ -1,6 +1,8 @@
 {{ partial "header.html" . }}
 
 <header class="section-header" style="background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url({{ .Site.BaseURL }}{{ .Params.banner }}) 49.9% 49.9% / cover;" role="banner">
+  <a class="homelink" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+
   <nav id="menu" role="navigation">
     <ul>
     {{ range .Data.Pages }}
@@ -15,6 +17,8 @@
 
 
 <div class="content">
+{{ .TableOfContents }}
+
 {{ .Content }}
 </div>
 

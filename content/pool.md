@@ -8,9 +8,10 @@ banner = "img/pool.jpg"
 
 This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $2 per guest.
  
+{{< figure src="/img/poolinfo-thumb.png" title="Pool Info" >}}
 ## Info Sheet
 
-Here is double sided sheet you can print with all the information you need for the Pool, the Summer BBQ, Pool Parties, Swim Team, and more.
+Here is a double sided sheet you can print with all the information you need for the Pool, the Summer BBQ, Pool Parties, Swim Team, and more.
  
 ## Rules
 
@@ -41,7 +42,7 @@ NOTE: The first part of the season the pool is shared with the Gators swim team.
 ### Extended Hours
 The pool may be open until 9:00 PM on warm weather days provided there is no pool party scheduled that night and there is life guard availability.  Please call the pool house to see if it will be opened until 9PM.
  
-## Pool Parties
+## Parties
 
 Pool parties are available to members/pool pass purchasers only. Prices vary depending on the number of people and the duration of the party. The base price is $50/hour with a $20 charge if an extra guard is needed. Payment is due at the time of booking and is non-refundable. You can fill out the pool party form at the pool and get further details.
 
@@ -50,7 +51,7 @@ Monday-Saturday Nights: 8pm – 10pm
 Saturday & Sunday Mornings: 10am – 12pm
 Sunday Evenings: 7pm – 9pm
  
-## Swim Lessons
+## Lessons
 
 Swim lessons are available for members ($50) and non-members ($70). These lessons will run for 9 days, with the last Friday off.  Our average class size is 4-6 per class and the levels are listed at the pool.  If you are uncertain of the level of your child should be placed, you can contact one of our swim instructors by calling the pool to schedule an assessment.
  
@@ -58,7 +59,7 @@ Sign-up sheets will be available when the pool opens and payment is due at the t
  
 Lessons are scheduled between 10:00am and 12:00pm (changing to 9:00am - 11:00am in mid-July) and last 25 minutes.
  
-## Gators Swim Team
+## Swim Team
 
 We are proud to host the Kingsgate Gators swim team at our pool!  This team is open to all homeowners and pool pass purchasers ages 5-18.
  
