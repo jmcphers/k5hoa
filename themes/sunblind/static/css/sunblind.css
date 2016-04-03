@@ -56,6 +56,10 @@ body {
   background-repeat: no-repeat;
 }
 
+a {
+  text-decoration: none;
+}
+
 .header {
   height: 400px;
   margin-bottom: 60px;
@@ -154,10 +158,24 @@ a i.fa-facebook {
 }
 
 
-.content-thumbnail {
-  float: right;
+.content-thumbnail,
+.document-thumbnail img {
   border: 1px solid #A0A0A0;
   box-shadow: 3px 3px 10px #A0A0A0;
+}
+
+.content-thumbnail: {
+  float: right;
+}
+
+.document-thumbnail {
+  display: inline-block; 
+}
+
+.document-thumbnail figcaption {
+  text-align: center;
+  color: #909090;
+  font-weight: 300;
 }
 
 @media (max-width: 700px) {
