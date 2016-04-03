@@ -1,0 +1,15 @@
+
+<header class="section-header">
+  <a class="homelink" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+  <a href="https://www.facebook.com/kingsgate5/"><i class="fa fa-facebook"></i></a>
+  <nav id="menu" role="navigation">
+    <ul>
+    {{ range .Data.Pages }}
+      {{ if eq .Type "page" }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+    </ul>
+  </nav>
+  <h1>{{ .Title }}</h1>
+</header>

@@ -5,7 +5,9 @@
   <title>{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}</title>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300" rel="stylesheet" type="text/css"> 
   <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/sunblind.css" />
   <meta name="generator" content="Hugo 0.15" />
 </head>
-<body>
+<body style="background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url({{ .Site.BaseURL }}{{ if isset .Params "banner"}}{{ .Params.banner }}{{else}}img/sunburst.jpg{{end}}) 49.9% 49.9% / cover; background-attachment: fixed;">
+

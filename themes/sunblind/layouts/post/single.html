@@ -1,9 +1,6 @@
 {{ partial "header.html" . }}
+{{ partial "toplinks.html" . }}
 
-post single
-
-<h1>{{ .Title }}</h1>
-
-<p>{{ .Content }}</p>
+<div class="content">{{ .Content }}</div>
 
 {{ partial "footer.html" . }}

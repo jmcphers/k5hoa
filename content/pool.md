@@ -4,30 +4,31 @@ draft = false
 title = "Pool"
 weight = 10
 banner = "img/pool.jpg"
+highlight = true
 +++
 
 This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $2 per guest.
  
-{{< figure src="/img/poolinfo-thumb.png" title="Pool Info" >}}
+[<img src="/img/poolinfo-thumb.png" class="content-thumbnail" />](/pdf/poolinfo.pdf)
 ## Info Sheet
 
 Here is a double sided sheet you can print with all the information you need for the Pool, the Summer BBQ, Pool Parties, Swim Team, and more.
  
 ## Rules
 
-Click here for a complete list of pool rules in PDF format or visit the front desk for a copy. All of our lifeguards are authorized to eject anyone from the pool grounds for any reason at anytime.
+View our [pool rules online]({{< relref "pool-rules.md" >}}) or visit the front desk for a copy. All of our lifeguards are authorized to eject anyone from the pool grounds for any reason at anytime.
  
 ## Passes
 
 Each year we sell a limited number of pool passes to outside members . The pass is for your current household members. If you were a 2015 Pool Pass member and wish to renew your membership please download the form with payment of $475.00 and mail to:
  
-> Kingsgate V HOA
-> P.O. Box 1791
-> Woodinville  Wa. 98072
+    Kingsgate V HOA
+    P.O. Box 1791
+    Woodinville  Wa. 98072
  
 NOTE: Renewals payments must not be post marked after April 15th. 
  
-Refund Policy: All transactions are final, no refunds will be processed. In the event of a billing error, please send email to: treasurer@kingsgate5.com
+Refund Policy: All transactions are final, no refunds will be processed. In the event of a billing error, please send email to: [treasurer@kingsgate5.com](mailto:treasurer@kingsgate5.com)
  
 If you would like to be placed on our wait list for a pool pass should any become available please fill out this Google form. You will be contacted by our pool manager in the beginning of April to let you know if you have been approved, please do not mail in any forms or payment until you have heard from us.
  
@@ -47,9 +48,10 @@ The pool may be open until 9:00 PM on warm weather days provided there is no poo
 Pool parties are available to members/pool pass purchasers only. Prices vary depending on the number of people and the duration of the party. The base price is $50/hour with a $20 charge if an extra guard is needed. Payment is due at the time of booking and is non-refundable. You can fill out the pool party form at the pool and get further details.
 
 Hours available for parties:
-Monday-Saturday Nights: 8pm – 10pm
-Saturday & Sunday Mornings: 10am – 12pm
-Sunday Evenings: 7pm – 9pm
+
+- Monday-Saturday Nights: 8pm – 10pm
+- Saturday & Sunday Mornings: 10am – 12pm
+- Sunday Evenings: 7pm – 9pm
  
 ## Lessons
 
