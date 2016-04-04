@@ -1,14 +1,14 @@
 
 <header class="section-header">
   <a class="homelink" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-  <a href="https://www.facebook.com/kingsgate5/"><i class="fa fa-facebook"></i></a>
-  <nav id="menu" role="navigation">
+  <nav id="menu" role="navigation" class="toplinks">
     <ul>
-    {{ range .Data.Pages }}
-      {{ if eq .Type "page" }}
+    {{ range .Site.Pages }}
+      {{ if and (eq .Type "page") (.Params.highlight) }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     {{ end }}
+    <li><a href="{{ .Params.Facebook }}"><i class="fa fa-facebook"></i></a></li>
     </ul>
   </nav>
   <h1>{{ .Title }}</h1>

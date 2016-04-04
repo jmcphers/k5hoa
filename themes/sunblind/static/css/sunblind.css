@@ -154,7 +154,6 @@ a.homelink {
 a i.fa-facebook {
   padding: 7px 10px 7px 10px;
   font-size: 15px;
-  float: right;
 }
 
 
@@ -177,6 +176,30 @@ a i.fa-facebook {
   color: #909090;
   font-weight: 300;
 }
+
+.toplinks {
+  float: right;
+}
+
+.toplinks ul {
+  font-size: 15px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.toplinks ul li {
+  margin-left: 15px;
+}
+
+.toplinks ul li a {
+  transition: border-bottom 400ms ease;
+  border-bottom: 1px solid rgba(255, 255, 255, 0);
+  }
+
+.toplinks ul li a:hover {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
 
 @media (max-width: 700px) {
   .header {
