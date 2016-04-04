@@ -8,10 +8,8 @@
 
   <nav id="menu" role="navigation">
     <ul>
-    {{ range .Data.Pages }}
-    {{ if and (eq .Type "page") (.Params.highlight) }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
+    {{ range .Site.Menus.main }}
+    <li><a href="{{.URL}}">{{ .Pre }}<span>{{ .Name }}</span></a>
     {{ end }}
     </ul>
   </nav>

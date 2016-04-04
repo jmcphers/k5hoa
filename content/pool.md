@@ -4,7 +4,7 @@ draft = false
 title = "Pool"
 weight = 10
 banner = "img/pool.jpg"
-highlight = true
+menu = "main"
 +++
 
 This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $2 per guest.
@@ -74,5 +74,4 @@ We have 2 certified lifeguards on duty at all times.  No one under the age of 7 
  
 Children who are 9 and older and have passed the swim test may come to the pool by themselves.  Artificial swimming aids are only allowed in the pool when accompanied by an adult. All of our lifeguards are authorized to eject anyone from the pool grounds for any reason at anytime. 
  
-Click here for a complete list of pool rules in PDF format or visit the front desk for a copy.
 

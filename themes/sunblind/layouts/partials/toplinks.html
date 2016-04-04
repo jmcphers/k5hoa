@@ -3,10 +3,9 @@
   <a class="homelink" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
   <nav id="menu" role="navigation" class="toplinks">
     <ul>
-    {{ range .Site.Pages }}
-      {{ if and (eq .Type "page") (.Params.highlight) }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
+    {{ $currentNode := . }}
+    {{ range .Site.Menus.main }}
+    <li><a {{ if $currentNode.IsMenuCurrent "main" . }} class="active" {{ end }} href="{{.URL}}">{{ .Pre }}<span>{{ .Name }}</span></a>
     {{ end }}
     <li><a href="{{ .Params.Facebook }}"><i class="fa fa-facebook"></i></a></li>
     </ul>

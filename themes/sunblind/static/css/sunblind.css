@@ -196,6 +196,10 @@ a i.fa-facebook {
   border-bottom: 1px solid rgba(255, 255, 255, 0);
   }
 
+.toplinks ul li a.active {
+  border-bottom: 1px solid rgba(255, 255, 255, 1);
+}
+
 .toplinks ul li a:hover {
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
