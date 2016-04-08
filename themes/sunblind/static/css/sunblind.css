@@ -216,6 +216,7 @@ a i.fa-facebook {
 
 
 div.footer {
+  clear: both;
 }
 
 div.footer hr {
@@ -234,19 +235,36 @@ a.morelink {
 }
 
 .person img, 
-.person placeholder {
+.person .placeholder {
   background-color: #a0a0a0;
   box-shadow: 3px 3px 10px #a0a0a0;
   border: 3px solid #ffffff;
+  margin-bottom: 15px;
 }
 
-.person img {
+.person img,
+.person .placeholder {
   float: left;
   margin-right: 20px;
 }
 
+.person .placeholder {
+  width: 163px;
+  height: 222px;
+}
+
 div.person {
-  clear: left;
+  float: left;
+  margin-right: 20px;
+}
+
+.person h3, .person h4, .person h5 {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
+.person h4 {
+  font-weight: 300;
 }
 
 @media (max-width: 700px) {

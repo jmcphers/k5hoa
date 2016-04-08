@@ -16,7 +16,9 @@ menu = "main"
 
 ## Board Members
 
+{{< person name="Royal Hanson" title="President" email="president@kingsgate5.com" >}}
+
 {{< person img="/img/liz.jpg" name="Liz Johanson" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
-{{< person img="/img/craig.jpg" name="Craig Carlston" title="Vice President" }}
+{{< person img="/img/craig.jpg" name="Craig Carlston" title="Vice President" >}}
 

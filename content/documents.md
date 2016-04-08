@@ -7,6 +7,7 @@ menu = "main"
 
 +++
 
+**Please note**: There is a $25 fee for documents not available on this website. [Contact the Treasurer]({{< relref "contact.md" >}}) for further information.
 
 [{{< figure src="/img/neighborhood-map-thumb.jpg" title="Neighborhood Map" class="document-thumbnail">}}](/img/neighborhood-map.jpg)
 [{{< figure src="/img/kingsgate5-ccrs-thumb.png" title="CC&Rs" class="document-thumbnail">}}](/pdf/kingsgate5-ccrs.pdf)
