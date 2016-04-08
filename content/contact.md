@@ -15,3 +15,8 @@ menu = "main"
     Woodinville, WA 98072-1791
 
 ## Board Members
+
+{{< person img="/img/liz.jpg" name="Liz Johanson" title="Treasurer" email="treasurer@kingsgate5.com" >}}
+
+{{< person img="/img/craig.jpg" name="Craig Carlston" title="Vice President" }}
+

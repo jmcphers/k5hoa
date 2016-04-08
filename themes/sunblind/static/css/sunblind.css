@@ -214,6 +214,7 @@ a i.fa-facebook {
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
 
+
 div.footer {
 }
 
@@ -230,6 +231,22 @@ div.footer p {
 a.morelink {
    display: block;
    text-align: right;
+}
+
+.person img, 
+.person placeholder {
+  background-color: #a0a0a0;
+  box-shadow: 3px 3px 10px #a0a0a0;
+  border: 3px solid #ffffff;
+}
+
+.person img {
+  float: left;
+  margin-right: 20px;
+}
+
+div.person {
+  clear: left;
 }
 
 @media (max-width: 700px) {

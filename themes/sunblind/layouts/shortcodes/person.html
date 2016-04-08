@@ -1,0 +1,10 @@
+<div class="person">
+  {{ if .Get "img" }}
+    <img src="{{ .Get "img"}}" />
+  {{ else }}
+    <div class="placeholder" />
+  {{ end }}
+  <h3>{{ .Get "name" }}</h3>
+  <h4>{{ .Get "title" }}</h3>
+  <h5><a href="mailto:{{ .Get "email" }}">{{ .Get "email"}}</a></h5>
+</div>
