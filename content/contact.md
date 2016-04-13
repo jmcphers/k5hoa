@@ -18,7 +18,10 @@ menu = "main"
 
 {{< person name="Royal Hanson" title="President" email="president@kingsgate5.com" >}}
 
-{{< person img="/img/liz.jpg" name="Liz Johanson" title="Treasurer" email="treasurer@kingsgate5.com" >}}
-
 {{< person img="/img/craig.jpg" name="Craig Carlston" title="Vice President" >}}
+
+{{< person name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
+
+{{< person name="Cindy Klein" title="Pool Manager" >}}
+
 
