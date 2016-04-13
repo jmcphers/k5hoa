@@ -179,6 +179,10 @@ a i.fa-facebook {
   display: inline-block; 
 }
 
+.document-thumbnail img {
+  background-color: #ffffff;
+}
+
 .document-thumbnail figcaption {
   text-align: center;
   color: #909090;
