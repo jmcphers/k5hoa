@@ -5,9 +5,9 @@
     <ul>
     {{ $currentNode := . }}
     {{ range .Site.Menus.main }}
-    <li><a {{ if $currentNode.IsMenuCurrent "main" . }} class="active" {{ end }} href="{{.URL}}">{{ .Pre }}<span>{{ .Name }}</span></a>
+    <li><a class="navlink {{ if $currentNode.IsMenuCurrent "main" . }}active{{ end }}" href="{{.URL}}">{{ .Pre }}<span>{{ .Name }}</span></a>
     {{ end }}
-    <li><a href="{{ .Params.Facebook }}"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="{{ .Site.Params.FacebookLink }}"><i class="fa fa-facebook"></i></a></li>
     </ul>
   </nav>
   <h1>{{ .Title }}</h1>

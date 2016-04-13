@@ -10,18 +10,34 @@ menu = "main"
 
 ## Mail
 
-    Kingsgate V HOA
-    PO  Box 1791
-    Woodinville, WA 98072-1791
+The Board's mailing address is:
+
+<div class="mail">
+    Kingsgate V HOA<br />
+    PO  Box 1791<br />
+    Woodinville, WA 98072-1791<br />
+</div>
+
+## E-mail
+
+To e-mail the Kingsgate Five board, you may send a message to:
+
+**[board@kingsgate5.com](mailto:board@kingsgate5.com)**
 
 ## Board Members
 
 {{< person name="Royal Hanson" title="President" email="president@kingsgate5.com" >}}
 
-{{< person img="/img/craig.jpg" name="Craig Carlston" title="Vice President" >}}
+{{< person img="../img/craig.jpg" name="Craig Carlston" title="Vice President" >}}
+
+{{< person name="Susan Schilling" title="Secretary" >}}
 
 {{< person name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
 {{< person name="Cindy Klein" title="Pool Manager" >}}
 
+{{< person name="Bill Keating" title="Park Trustee" >}}
 
+{{< person name="Richard Malsch" title="By-Laws & Architecture" >}}
+
+{{< person name="Jonathan Friebert" title="Board Member at Large" >}}

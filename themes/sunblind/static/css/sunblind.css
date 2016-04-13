@@ -164,7 +164,6 @@ a i.fa-facebook {
   font-size: 15px;
 }
 
-
 .content-thumbnail,
 .document-thumbnail img {
   border: 1px solid #A0A0A0;
@@ -204,16 +203,16 @@ a i.fa-facebook {
 }
 
 .toplinks ul li a,
-.header nav a:hover {
+.header nav a.navlink:hover {
   transition: border-bottom 400ms ease;
   border-bottom: 1px solid rgba(255, 255, 255, 0);
-  }
+}
 
 .toplinks ul li a.active {
   border-bottom: 1px solid rgba(255, 255, 255, 1);
 }
 
-.toplinks ul li a:hover,
+.toplinks ul li a.navlink:hover,
 .header nav a:hover {
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
@@ -260,6 +259,8 @@ a.morelink {
 div.person {
   float: left;
   margin-right: 20px;
+  margin-bottom: 40px;
+  height: 300px;
 }
 
 .person h3, .person h4, .person h5 {
@@ -269,6 +270,14 @@ div.person {
 
 .person h4 {
   font-weight: 300;
+}
+
+div.mail {
+  background-color: white;
+  border: 1px solid #909090;
+  padding: 20px;
+  overflow: hidden;
+  display: inline-block;
 }
 
 @media (max-width: 700px) {

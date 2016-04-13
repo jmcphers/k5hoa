@@ -5,6 +5,6 @@ title = "Kingsgate Five"
 [Params]
   FeaturedImage = "img/sunburst.jpg"
   Subtitle = "Homeowner's Association"
+  FacebookLink = "https://www.facebook.com/kingsgate5/"
   Bio = "The Kingsgate 5 Homeowners Association serves over 300 homes in the Kingsgate community located where Kirkland and Woodinville meet. Our neighborhood is also home of the Kingsgate Gators swim team."
-  Facebook = "https://www.facebook.com/kingsgate5/"
 
