@@ -7,11 +7,19 @@ menu = "main"
 
 +++
 
-**Please note**: There is a $25 fee for documents not available on this website. [Contact the Treasurer]({{< relref "contact.md" >}}) for further information.
+
+<div class="alert alert-warning" role="alert">
+There is a $25 fee for documents not available on this website. Contact the Treasurer to obtain copies of other documents.
+</div>
 
 ## Newsletters
 
 [{{< figure src="../img/March2016Newsletter-thumb.png" title="March 2016" class="document-thumbnail">}}](../pdf/March2016Newsletter.pdf)
+
+## Pool Information
+
+[{{< figure src="../img/poolinfo-thumb.png" title="Pool Info" class="document-thumbnail">}}](../pdf/poolinfo.pdf)
+[{{< figure src="../img/kingsgate5-poolrules-thumb.png" title="Pool Rules" class="document-thumbnail">}}](../pdf/kingsgate5-poolrules.pdf)
 
 ## Legal Documents
 
