@@ -15,7 +15,7 @@ Pool Manager, Cindy Klein: 425-823-8357<br />
 
 This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $2 per guest.
  
-[<img src="/img/poolinfo-thumb.png" class="content-thumbnail" />](/pdf/poolinfo.pdf)
+[<img src="../img/poolinfo-thumb.png" class="content-thumbnail" />](../pdf/poolinfo.pdf)
 ## Info Sheet
 
 Here is a double sided sheet you can print with all the information you need for the Pool, the Summer BBQ, Pool Parties, Swim Team, and more.

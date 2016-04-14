@@ -100,16 +100,10 @@ nav a {
 }
 
 .header nav li {
-   letter-spacing: 01.em;
+   letter-spacing: 0.1em;
    margin-right: 1em;
    margin-left: 1em;
    display: inline-block;
-}
-
-@media (max-width: 768px) {
-  .content nav li {
-    display: inline-block;
-  }
 }
 
 .content nav li {
@@ -290,18 +284,15 @@ div.mail {
   display: inline-block;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 768px) {
+  .content nav li {
+    display: inline-block;
+  }
   .header {
-    height: 300px;
-  }
-  .site-title {
-    height: 180px;
-    width: 50%;
-    margin-top: -1%;
-    margin-left: 25%;
-    display: table;
-  }
+    height: 200px;
+  } 
   .site-title h1 {
-    margin-top: 20px;
+    margin-top: 25px;
   }
 }
+
