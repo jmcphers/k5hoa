@@ -34,10 +34,13 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
-{{< person name="Cindy Klein" title="Pool Manager" >}}
-
 {{< person name="Bill Keating" title="Park Trustee" >}}
 
-{{< person name="Richard Malsch" title="By-Laws & Architecture" >}}
+{{< person name="Cindy Klein" title="Pool Manager" >}}
 
-{{< person name="Jonathan Friebert" title="Board Member at Large" >}}
+{{< person name="Alan Nelson" title="At Large" >}}
+
+{{< person name="Kelly McPherson" title="At Large" >}}
+
+{{< person name="Bonnie Santschi" title="At Large" >}}
+
