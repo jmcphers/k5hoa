@@ -9,7 +9,7 @@
   <nav id="menu" role="navigation">
     <ul>
     {{ range .Site.Menus.main }}
-    <li><a href="{{.URL}}">{{ .Pre }}<span>{{ .Name }}</span></a>
+    <li><a href="{{.URL}}">{{ .Pre }}<span>{{ .Name }}</span></a></li>
     {{ end }}
     </ul>
   </nav>
@@ -18,17 +18,23 @@
 {{ partial "content.html" }}
 
 <div class="row">
-  <div class="posts col-md-8 col-sm-12">
+  <div class="posts col-md-8 col-sm-8">
     {{ range first 10 .Data.Pages }}
       {{ if eq .Type "post" }}
       <article>
-        <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-        <h2>{{ .Date.Format "January 2, 2006" }}</h2>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <h3>{{ .Date.Format "January 2, 2006" }}</h3>
         <p>{{ .Summary }}</p>
-        <em><a class="morelink" href="{{ .Permalink }}">Read more &raquo;</a></em>
+        {{ if .Truncated }}
+          <em><a class="morelink" href="{{ .Permalink }}">Read more &raquo;</a></em>
+        {{ end }}
       </article>
       {{ end }}
     {{ end }}
+  </div>
+  <div class="col-md-4 col-sm-4">
+    <h2>Upcoming Events</h2>
+    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=5rsmr2tlbsnis3q1ebjbfof4oc%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
 

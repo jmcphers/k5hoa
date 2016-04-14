@@ -9,6 +9,8 @@ Kingsgate 5 Facility Manager Job Description:
 
 This is a paid part time position and would involve the upkeep of the pool house and pool area and overseeing the park and common areas.
 
+<!--more-->
+
 - Keeping up on ongoing facility repairs and handyman jobs.
 - Supervising any big repairs, collecting bids and presenting them to the board, hiring the contactor/sub an over seeing the work.
 - General cleaning, pressure washing, sweeping the pool deck in the off-season, roof and gutter cleaning, removing debris from the pool.
