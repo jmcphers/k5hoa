@@ -1,11 +1,15 @@
 {{ partial "header.html" . }}
 {{ partial "toplinks.html" . }}
 
-<div class="content">
-{{ .TableOfContents }}
+{{ partial "content.html" . }}
 
-{{ .Content }}
+<div class="row">
+  <div class="col-md-4 col-md-push-8">
+    {{ .TableOfContents }}
+  </div>
+  <div class="col-md-8 col-md-pull-4">
+    {{ .Content }}
+  </div>
 </div>
-
 
 {{ partial "footer.html" . }}

@@ -119,11 +119,6 @@ nav li {
 .content, 
 .posts,
 .footer {
-  padding-left: 20%;
-  padding-right: 20%;
-  margin-bottom: 0px;
-  margin-top: 0px;
-  overflow: hidden;
   background-color: #efefef;
 }
 
@@ -176,6 +171,8 @@ a i.fa-facebook {
 
 .document-thumbnail {
   display: inline-block; 
+  margin-right: 30px;
+  margin-bottom: 30px;
 }
 
 .document-thumbnail img {
@@ -206,6 +203,8 @@ a i.fa-facebook {
 .header nav a.navlink:hover {
   transition: border-bottom 400ms ease;
   border-bottom: 1px solid rgba(255, 255, 255, 0);
+  text-decoration: none;
+  color: white;
 }
 
 .toplinks ul li a.active {
@@ -215,6 +214,8 @@ a i.fa-facebook {
 .toplinks ul li a.navlink:hover,
 .header nav a:hover {
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  color: white;
 }
 
 
