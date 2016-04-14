@@ -1,6 +1,7 @@
 baseurl = "http://www.kingsgate5hoa.com/"
 languageCode = "en-us"
 title = "Kingsgate Five"
+googleAnalytics = "UA-75449743-1"
 
 [Params]
   FeaturedImage = "img/sunburst.jpg"

@@ -7,6 +7,12 @@ banner = "img/pool.jpg"
 menu = "main"
 +++
 
+<div class="alert alert-info" role="alert">
+<strong>The pool is open from Memorial Day weekend to Labor Day weekend.</strong><br />
+Pool phone number: 425-821-7999<br />
+Pool Manager, Cindy Klein: 425-823-8357<br />
+</div>
+
 This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $2 per guest.
  
 [<img src="/img/poolinfo-thumb.png" class="content-thumbnail" />](/pdf/poolinfo.pdf)
