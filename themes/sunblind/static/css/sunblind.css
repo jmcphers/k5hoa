@@ -153,7 +153,7 @@ a.homelink {
   color: white;
   padding: 5px;
   border: 2px solid white; 
-  margin: 10px;
+  margin-top: 10px;
 }
 
 a i.fa-facebook {
@@ -289,10 +289,17 @@ div.mail {
     display: inline-block;
   }
   .header {
-    height: 200px;
-  } 
+    height: 300px;
+  }
   .site-title h1 {
     margin-top: 25px;
+  }
+  .header nav li {
+    margin-right: normal;
+    margin-left: normal;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
   }
 }
 
