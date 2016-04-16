@@ -1,4 +1,4 @@
-baseurl = "http://www.kingsgate5hoa.com/"
+baseurl = "http://www.kingsgate5.com/"
 languageCode = "en-us"
 title = "Kingsgate Five"
 googleAnalytics = "UA-75449743-1"
@@ -7,5 +7,6 @@ googleAnalytics = "UA-75449743-1"
   FeaturedImage = "img/sunburst.jpg"
   Subtitle = "Homeowner's Association"
   FacebookLink = "https://www.facebook.com/kingsgate5/"
+  Copyright= "Copyright &copy; 2016 Kingstate Five Homeowner's Association." 
   Bio = "The Kingsgate 5 Homeowners Association serves over 300 homes in the Kingsgate community located where Kirkland and Woodinville meet. Our neighborhood is also home of the Kingsgate Gators swim team."
 
