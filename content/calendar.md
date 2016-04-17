@@ -3,7 +3,7 @@ date = "2016-03-26T20:49:18-07:00"
 draft = false
 title = "Calendar"
 weight = 20
-banner = "img/leaf.jpg"
+banner = "img/botanic3-backdrop.jpg"
 menu = "main"
 +++
 

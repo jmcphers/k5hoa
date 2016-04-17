@@ -4,6 +4,7 @@ draft = false
 title = "Documents"
 weight = 25
 menu = "main"
+banner = "img/botanic1-backdrop.jpg"
 
 +++
 

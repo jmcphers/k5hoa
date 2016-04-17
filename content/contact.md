@@ -4,6 +4,7 @@ draft = false
 title = "Contact Us"
 weight = 30
 menu = "main"
+banner = "img/botanic5-backdrop.jpg"
 
 
 +++
