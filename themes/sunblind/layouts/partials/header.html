@@ -10,7 +10,17 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" />
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/sunblind.css" />
+  <script type="text/javascript">
+    var header_images = [ 
+    {{ range .Site.Params.Headers }}
+      "{{ . }}", 
+    {{ end }} 
+    ];
+  </script>
+  <script src="{{ .Site.BaseURL }}js/sunblind.js"></script>
   {{ template "_internal/google_analytics.html" . }}
 </head>
-<body style="background: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url({{ .Site.BaseURL }}{{ if isset .Params "banner"}}{{ .Params.banner }}{{else}}img/botanic2-backdrop.jpg{{end}}) 49.9% 49.9% / cover; background-attachment: fixed;">
+<body>
+    <div id="background" class="background-banner" style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)){{ if isset .Params "banner"}}, url({{ .Site.BaseURL }}{{ .Params.banner }}) {{ end }};">
+  </div>
   <div class="container">

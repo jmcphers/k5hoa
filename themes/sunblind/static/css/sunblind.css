@@ -61,8 +61,6 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: "Open Sans", sans-serif;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
 }
 
 a {
@@ -302,6 +300,23 @@ div.mail {
   display: inline-block;
 }
 
+.facebook-left {
+  margin-left: 20px;
+  display: none;
+}
+
+.background-banner {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vw;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -10;
+}
+
 @media (max-width: 768px) {
   .content nav li {
     display: inline-block;
@@ -311,6 +326,7 @@ div.mail {
   }
 
   .toplinks {
+    margin-top: 20px;
     text-align: left;
   }
 
@@ -323,6 +339,14 @@ div.mail {
     display: block;
     text-align: center;
     margin-bottom: 10px;
+  }
+
+  .facebook-right {
+    display: none;
+  }
+
+  .facebook-left {
+    display: inline-block;
   }
 }
 

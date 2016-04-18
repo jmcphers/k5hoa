@@ -3,6 +3,7 @@
 <div class="row">
   <div class="col-md-4 col-sm-4">
     <a class="homelink" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    <a class="facebook-left" href="{{ .Site.Params.FacebookLink }}"><i class="fa fa-facebook"></i></a>
   </div>
   <div class="col-md-8 col-sm-8">
     <nav id="menu" role="navigation" class="toplinks">
@@ -11,7 +12,7 @@
       {{ range .Site.Menus.main }}
       <li><a class="navlink {{ if $currentNode.IsMenuCurrent "main" . }}active{{ end }}" href="{{.URL}}">{{ .Pre }}<span>{{ .Name }}</span></a>
       {{ end }}
-      <li><a href="{{ .Site.Params.FacebookLink }}"><i class="fa fa-facebook"></i></a></li>
+      <li><a class="facebook-right" href="{{ .Site.Params.FacebookLink }}"><i class="fa fa-facebook"></i></a></li>
       </ul>
     </nav>
   </div>
