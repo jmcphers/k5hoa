@@ -2,6 +2,10 @@
 {{ partial "toplinks.html" . }}
 {{ partial "content.html" . }}
 
-{{ .Content }}
+<div class="row">
+ <div class="col-md-8 col-sm-8">
+ {{ .Content }}
+ </div>
+</div>
 
 {{ partial "footer.html" . }}

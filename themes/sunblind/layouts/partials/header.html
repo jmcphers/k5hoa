@@ -13,7 +13,7 @@
   <script type="text/javascript">
     var header_images = [ 
     {{ range .Site.Params.Headers }}
-      "{{ . }}", 
+    "{{ $.Site.BaseURL }}{{ . }}", 
     {{ end }} 
     ];
   </script>
