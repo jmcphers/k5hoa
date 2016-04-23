@@ -21,6 +21,6 @@
   {{ template "_internal/google_analytics.html" . }}
 </head>
 <body>
-    <div id="background" class="background-banner" style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)){{ if isset .Params "banner"}}, url({{ .Site.BaseURL }}{{ .Params.banner }}) {{ end }};">
-  </div>
+  <div id="background" class="background-banner" style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)){{ if isset .Params "banner"}}, url({{ .Site.BaseURL }}{{ .Params.banner }}) {{ end }};"></div>
+  <div class="background-cover"></div>
   <div class="container">

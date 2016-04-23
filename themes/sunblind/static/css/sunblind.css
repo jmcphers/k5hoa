@@ -129,7 +129,8 @@ nav.toplinks li  {
 
 .content, 
 .posts,
-.footer {
+.footer,
+.background-cover {
   background-color: #efefef;
 }
 
@@ -315,6 +316,24 @@ div.mail {
   background-repeat: no-repeat;
   background-size: cover;
   z-index: -10;
+}
+
+.background-cover {
+  position: fixed;
+  top: 50%;
+  left: 0px;
+  height: 50%;
+  width: 100%;
+  z-index: -5;
+}
+
+.return-link {
+  text-align: center;
+}
+
+.return-link .homelink {
+  border-color: gray;
+  color: gray;
 }
 
 @media (max-width: 768px) {

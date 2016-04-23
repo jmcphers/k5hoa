@@ -3,9 +3,16 @@
 {{ partial "content.html" . }}
 
 <div class="row">
- <div class="col-md-8 col-sm-8">
- {{ .Content }}
- </div>
+  <div class="col-md-8 col-sm-8">
+   {{ .Content }}
+  </div>
 </div>
+
+<div class="row">
+  <div class="col-md-12 return-link">
+    <a class="homelink" href="/">{{ $.Site.Title }}</a>
+  </div>
+</div>
+
 
 {{ partial "footer.html" . }}
