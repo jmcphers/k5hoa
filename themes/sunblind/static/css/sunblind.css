@@ -170,7 +170,8 @@ a i.fa-facebook {
 }
 
 .content-thumbnail,
-.document-thumbnail img {
+.document-thumbnail,
+.background-thumbnail img {
   border: 1px solid #A0A0A0;
   box-shadow: 3px 3px 10px #A0A0A0;
 }
@@ -181,7 +182,8 @@ a i.fa-facebook {
   margin-top: 20px;
 }
 
-.document-thumbnail {
+.document-thumbnail,
+.background-thumbnail {
   display: inline-block; 
   margin-right: 30px;
   margin-bottom: 30px;
@@ -196,6 +198,11 @@ img.content-thumbnail {
   text-align: center;
   color: #909090;
   font-weight: 300;
+}
+
+.background-thumbnail img {
+   width: 300px;
+   height: auto;
 }
 
 .toplinks {
