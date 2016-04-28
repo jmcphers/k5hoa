@@ -26,7 +26,11 @@ View our [pool rules online]({{< relref "pool-rules.md" >}}) or visit the front 
  
 ## Passes
 
-Each year we sell a limited number of pool passes to outside members . The pass is for your current household members. If you were a 2015 Pool Pass member and wish to renew your membership please download the form with payment of $475.00 and mail to:
+<div class="alert alert-warning" role="alert">
+Pool passes are <strong>sold out</strong> for the 2016 season.
+</div>
+
+Each year we sell a limited number of pool passes to outside members. The pass is for your current household members. If you were a 2015 Pool Pass member and wish to renew your membership please download the form with payment of $475.00 and mail to:
  
     Kingsgate V HOA
     P.O. Box 1791
