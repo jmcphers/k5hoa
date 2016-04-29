@@ -61,6 +61,7 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: "Open Sans", sans-serif;
+  font-size: 16px;
 }
 
 a {
@@ -131,7 +132,7 @@ nav.toplinks li  {
 .posts,
 .footer,
 .background-cover {
-  background-color: #efefef;
+  background-color: #f4f4f4;
 }
 
 a.homelink {

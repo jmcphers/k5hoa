@@ -67,7 +67,8 @@ banner = "img/pool.jpg"
     
     -  The swim team may schedule exclusive use of the pool during normal hours for no more than six evening meets per season starting no earlier than 4:00 pm. The team may also use the pool for one daytime meet per season on either Saturday or Sunday for a Championship meet. The team shall present the Pool Trustee with a request in advance to reserve the pool for swim meets.
 
-1. 25.	Guests are bound by all regular rules plus those in this section.
+1. Guests are bound by all regular rules plus those in this section.
+
 1. Each lot/permit holder is limited to four guests at any one time during the normal operating hours of the pool.
 
 1. There will be a guest fee for each guest. An exception is made for those homeowners who pay their dues in full at the beginning of each calendar year, in accordance with the annual payment incentive resolution adopted at the December, 1984 meeting of the Board of Trustees. Guest fees are set by the Board of Trustees each year at their March meeting. Homeowners and permit holders will be notified of the fee through the newsletter. (Pool Pass Purchasers are excluded from free guests.)
@@ -80,28 +81,21 @@ banner = "img/pool.jpg"
 
 1. For safety reasons, guests may be denied admittance if crowded conditions warrant. The judgment of the Pool Trustee, Pool Manager or Senior guard on duty shall be final. No homeowner or permit holder may be denied admittance to the pool if an overcrowded condition exists because of guests. In the event of overcrowding, guests will be asked to leave in reverse order of arrival. Their guest fee will be refunded.
 
-1. Swim lessons: 
+1. **Swim lessons:** The pool shall be reserved for swimming lessons every summer for five, two-week morning sessions from 9:30 to 11:30 am Monday through Friday The lessons are open to all homeowners and permit holders. Each participant shall pay the pool a fee according to a schedule stipulated by the Board of Trustees each year at the March Board meeting. The Board of Trustees may decide to have special lessons with appropriate fees for those lessons.
 
-1. The pool shall be reserved for swimming lessons every summer for five, two-week morning sessions from 9:30 to 11:30 am Monday through Friday The lessons are open to all homeowners and permit holders. Each participant shall pay the pool a fee according to a schedule stipulated by the Board of Trustees each year at the March Board meeting. The Board of Trustees may decide to have special lessons with appropriate fees for those lessons.
+1. **Pool Parties:** Private parties may be scheduled with the Pool Manager, and held when the pool is not otherwise in use. All such parties shall be subject to all provisions of these rules and regulations except as noted otherwise.
 
-1. Pool Parties:
+    - At least one Kingsgate V Homeowner or Pool Use Permit holder, in addition to the appropriate number of lifeguards shall be present at all pool parties.
 
-1. Private parties may be scheduled with the Pool Manager, and held when the pool is not otherwise in use. All such parties shall be subject to all provisions of these rules and regulations except as noted otherwise.
+    - The sponsoring homeowner or permit holder will be charged a fee for all pool parties, at a schedule set by the Board of Trustees. A minimum of two lifeguards is required for all pool parties not exceeding 40 guests. Over 40 guests require 3 guards..
 
-1. At least one Kingsgate V Homeowner or Pool Use Permit holder, in addition to the appropriate number of lifeguards shall be present at all pool parties.
+    - All pool parties must end no later than 10:00 pm. Noise at the parties must be kept at a level consistent with the consent and convenience of adjacent homeowners. The host  present is responsible for noise level control. All noise level decisions by the lifeguard in charge are final.
 
-1. The sponsoring homeowner or permit holder will be charged a fee for all pool parties, at a schedule set by the Board of Trustees. A minimum of two lifeguards is required for all pool parties not exceeding 40 guests. Over 40 guests require 3 guards..
+    - Food and non-alcoholic beverages are allowed for pool parties, with the Pool Manager's approval. The host is responsible for all clean-up to the pool area concerning food and beverage use. The host is also responsible for damages resulting from the party.
 
-1. All pool parties must end no later than 10:00 pm. Noise at the parties must be kept at a level consistent with the consent and convenience of adjacent homeowners. The host  present is responsible for noise level control. All noise level decisions by the lifeguard in charge are final.
+1. **Rule Enforcement:** The foregoing rules will be enforced by the Pool Manager, lifeguards, and office staff on duty. They have the right to restrict activities which may be unsafe or create an excessive disturbance. Disciplinary procedures are taken at the discretion of the lifeguard, the Pool Manager, or office staff depending on the nature and severity of the infraction. Parents will be notified when a child's infraction results in disciplinary action. To ensure everyone's safety and enjoyment, the following disciplinary procedures may be taken to enforce the pool rules:
 
-1. Food and non-alcoholic beverages are allowed for pool parties, with the Pool Manager's approval. The host is responsible for all clean-up to the pool area concerning food and beverage use. The host is also responsible for damages resulting from the party.
-
-1. Rule Enforcement:
-
-1. The foregoing rules will be enforced by the Pool Manager, lifeguards, and office staff on duty. They have the right to restrict activities which may be unsafe or create an excessive disturbance. Disciplinary procedures are taken at the discretion of the lifeguard, the Pool Manager, or office staff depending on the 
-1. nature and severity of the infraction. Parents will be notified when a child's infraction results in disciplinary action. To ensure everyone's safety and enjoyment, the following disciplinary procedures may be taken to enforce the pool rules:
-
-1. - Warning
-1. - Time out of the pool.
-1. - Exclusion from pool use for one day.
-1. - Suspension of pool privileges for longer periods of time up to the balance of the season.
+    - Warning
+    - Time out of the pool.
+    - Exclusion from pool use for one day.
+    - Suspension of pool privileges for longer periods of time up to the balance of the season.

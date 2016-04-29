@@ -30,17 +30,13 @@ View our [pool rules online]({{< relref "pool-rules.md" >}}) or visit the front 
 Pool passes are <strong>sold out</strong> for the 2016 season.
 </div>
 
-Each year we sell a limited number of pool passes to outside members. The pass is for your current household members. If you were a 2015 Pool Pass member and wish to renew your membership please download the form with payment of $475.00 and mail to:
+Each year we sell a limited number of pool passes to outside members. The pass is for your current household members. If you were a 2015 Pool Pass member and wish to renew your membership please <a href="../pdf/kingsgate5-pooluse-2016.pdf">download the form</a> with payment of $475.00 and mail to:
  
     Kingsgate V HOA
     P.O. Box 1791
     Woodinville  Wa. 98072
  
-NOTE: Renewals payments must not be post marked after April 15th. 
- 
 Refund Policy: All transactions are final, no refunds will be processed. In the event of a billing error, please send email to: [treasurer@kingsgate5.com](mailto:treasurer@kingsgate5.com)
- 
-If you would like to be placed on our wait list for a pool pass should any become available please fill out this Google form. You will be contacted by our pool manager in the beginning of April to let you know if you have been approved, please do not mail in any forms or payment until you have heard from us.
  
 ## Hours
  
