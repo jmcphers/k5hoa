@@ -1,8 +1,7 @@
 +++
 date = "2016-03-17"
-draft = false
+draft = true
 title = "Wanted: Pool Facilities Manager"
-
 +++
 
 Kingsgate 5 Facility Manager Job Description:
