@@ -31,6 +31,10 @@
       </article>
       {{ end }}
     {{ end }}
+
+  <div class="bio">
+    {{ .Site.Params.Bio | safeHTML }}
+  </div>
   </div>
   <div class="col-md-4 col-sm-4">
     <h2>Upcoming Events</h2>

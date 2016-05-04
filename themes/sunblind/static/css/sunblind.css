@@ -328,9 +328,9 @@ div.mail {
 
 .background-cover {
   position: fixed;
-  top: 50%;
+  top: 70%;
   left: 0px;
-  height: 50%;
+  height: 30%;
   width: 100%;
   z-index: -5;
 }
@@ -342,6 +342,16 @@ div.mail {
 .return-link .homelink {
   border-color: gray;
   color: gray;
+}
+
+.bio {
+  margin: 0px;
+  padding: 20px;
+  border: 1px solid #909090;
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 14px;
 }
 
 @media (max-width: 768px) {
