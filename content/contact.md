@@ -39,7 +39,7 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person name="Alan Nelson" title="At Large" >}}
 
-{{< person name="Kelly McPherson" title="At Large" >}}
+{{< person name="Kelly McPherson" title="Recreation" email="k5recreation@gmail.com" >}}
 
-{{< person name="Bonnie Santschi" title="At Large" >}}
+{{< person name="Bonnie Santschi" title="Recreation" email="k5recreation@gmail.com" >}}
 
