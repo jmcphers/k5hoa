@@ -13,8 +13,8 @@ Pool phone number: 425-821-7999<br />
 Pool Manager, Cindy Klein: 425-823-8357<br />
 </div>
 
-<div class="alert alert-warning" role="alert">
-The lifeguard desk will be staffed beginning May 23rd from 6pm to 8pm. Neighbors are welcome to sign up for pool parties and swimming lessons during those times.
+<div class="alert alert-danger" role="alert">
+<strong>The lifeguard desk will be staffed beginning May 23rd from 6pm to 8pm. Neighbors are welcome to sign up for pool parties and swimming lessons during those times.</strong>
 </div>
 
 This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $2 per guest.
