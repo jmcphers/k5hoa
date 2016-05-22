@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function(evt) {
   var idx = Math.floor(header_images.length * Math.random());
 
   // set as element background
-  bg.style.backgroundImage = "linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url('" + header_images[idx] + "');";
+  bg.style.backgroundImage = "linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), url('" + header_images[idx] + "')";
 });
 
 })();
