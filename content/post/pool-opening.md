@@ -5,10 +5,10 @@ title = "Pool Opens May 28!"
 +++
 
 <script type="text/javascript">
-var deadline = 'May 28 2016 12:00:00 GMT-08:00';
+var deadline = 'May 28 2016 12:00:00';
 
 function getTimeRemaining(endtime){
-  var t = Date.parse(endtime) - Date.parse(new Date());
+  var t = Date.parse(endtime) - (new Date());
   var seconds = Math.floor( (t/1000) % 60 );
   var minutes = Math.floor( (t/1000/60) % 60 );
   var hours = Math.floor( (t/(1000*60*60)) % 24 );
@@ -24,7 +24,7 @@ function getTimeRemaining(endtime){
 
 function initializeClock(id, endtime){
   var clock = document.getElementById(id);
-  if (Date.parse(endtime) < Date.parse(new Date())) {
+  if (Date.parse(endtime) < (new Date())) {
     clock.style.display = "none";
     return;
   }
