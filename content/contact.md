@@ -33,9 +33,9 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board_ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
-{{< person img="../img/board_bill.jpg" name="Bill Keating" title="Park Trustee" >}}
-
 {{< person img="../img/board_cindy.jpg" name="Cindy Klein" title="Pool Manager" email="pool@kingsgate5.com" >}}
+
+{{< person img="../img/board_bill.jpg" name="Bill Keating" title="Park Trustee" >}}
 
 {{< person name="Alan Nelson" title="At Large" >}}
 
