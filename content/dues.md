@@ -363,6 +363,11 @@ var lookupLot = function() {
     var house = document.getElementById("house").value;
     var lots = [];
 
+    if (!house) {
+        alert("Enter a house number to look up your lot number.");
+        return false;
+    }
+
     // if there are streets, use them
     var streets = document.getElementById("street");
     if (streets.options.length > 1) {
@@ -377,8 +382,13 @@ var lookupLot = function() {
         }
     }
 
-    // just one lot, look it up
-    if (lots.length === 1) {
+    if (lots.length === 0) {
+        alert("No lots were found with the house number '" + house + "'. " +
+              "Try entering just the numbers of your house; for instance, " +
+              "if your address is 123 Easy St., enter 123.");
+        return false;
+    } else if (lots.length === 1) {
+        // just one lot, look it up
         foundLot(lots[0][0]);
     } else if (lots.length > 1) {
         // multiple lots, add street as disambiguator
