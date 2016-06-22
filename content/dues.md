@@ -2,6 +2,8 @@
 date = "2016-04-22T20:49:18-07:00"
 draft = false
 title = "HOA Dues"
+weight = 20
+menu = "main"
 +++
 
 <script type="text/javascript">
