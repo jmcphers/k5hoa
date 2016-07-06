@@ -2,6 +2,7 @@
 +++
 date = "2016-05-16"
 title = "Pool Opens May 28!"
+draft = true
 +++
 
 <script type="text/javascript">
