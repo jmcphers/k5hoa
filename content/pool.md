@@ -9,6 +9,7 @@ menu = "main"
 
 <div class="alert alert-info" role="alert">
 <strong>The pool is open from Memorial Day weekend to Labor Day weekend.</strong><br />
+Hours are <strong>11:15 - 8pm</strong> on weekdays, <strong>12pm - 8pm</strong> on Saturday, and <strong>12pm - 7pm</strong> on Sunday. <br />
 Pool phone number: 425-821-7999<br />
 Pool Manager, Cindy Klein: 425-823-8357<br />
 </div>
@@ -51,6 +52,7 @@ The 2016 pool schedule will be posted before pool opening, this schedule will in
 NOTE: The first part of the season the pool is shared with the Gators swim team.
  
 ### Extended Hours
+
 The pool may be open until 9:00 PM on warm weather days provided there is no pool party scheduled that night and there is life guard availability.  Please call the pool house to see if it will be opened until 9PM.
  
 ## Parties
