@@ -418,6 +418,13 @@ function lookup_lot() {
            var l2 = boxes.assignments[i].lot_location;
            map.setCenter({ lat: (l1.lat + l2.lat) / 2,
                            lng: (l1.lng + l2.lng) / 2});
+           document.getElementById("mailbox-alert").style.display = "block";
+           document.getElementById("lot-number").innerText = lot;
+           document.getElementById("mailbox-type").innerText = boxes.mailboxes[j].description;
+           if (boxes.assignments[i].position) {
+             document.getElementById("lot-position").style.display = "inline";
+             document.getElementById("lot-position-number").innerText = boxes.assignments[i].position;
+           }
            break;
          }
        }
@@ -434,39 +441,42 @@ function lookup_lot() {
 <div class="form-group"> 
     <label class="col-sm-3 control-label" for="lot">First Name</label>
     <div class="col-sm-7">
-        <input class="form-control" type="text" id="first_name" />
+        <input class="form-control" type="text" id="first_name" required="true" />
     </div>
 </div>
 <div class="form-group"> 
     <label class="col-sm-3 control-label" for="lot">Last Name</label>
     <div class="col-sm-7">
-        <input class="form-control" type="text" id="last_name" />
+        <input class="form-control" type="text" id="last_name" required="true" />
     </div>
 </div>
 <div class="form-group"> 
     <label class="col-sm-3 control-label" for="lot">Phone #</label>
     <div class="col-sm-7">
-        <input class="form-control" type="text" id="phone" />
+        <input class="form-control" type="text" id="phone" required="true" style="width: 75%" />
     </div>
 </div>
 <div class="form-group"> 
     <label class="col-sm-3 control-label" for="lot">E-mail</label>
     <div class="col-sm-7">
-        <input class="form-control" type="text" id="phone" />
+        <input class="form-control" type="text" id="email" required="true" />
     </div>
 </div>
 <div class="form-group"> 
     <label class="col-sm-3 control-label" for="lot">Lot #</label>
     <div class="col-sm-7">
-        <input class="form-control" type="text" style="width: 50px;" id="lot" />
+        <input class="form-control" type="text" style="width: 25%;" id="lot" />
     </div>
 </div>
 <div class="form-group"> 
     <div class="col-sm-7 col-md-offset-3">
-        <button type="button" class="btn btn-primary">Find Mailbox</button>
+        <input type="submit" class="btn btn-primary" value="Find Mailbox" />
     </div>
 </div>
 </form>
 <h3>Mailbox Map</h3>
-<div id="mailbox-map" style="height: 500px; width: 100%;"></div>
+<div id="mailbox-alert" class="alert alert-success" style="display: none;">
+This map shows the location of the locking mailbox (marked with M) for lot <strong id="lot-number"></strong> (marked with L). This is a <span id="mailbox-type"> mailbox</span>. <span id="lot-position" style="display: none;">Your mailbox number in the unit is #<strong id="lot-position-number"></strong>.</span>
+</div>
+<div id="mailbox-map" style="height: 500px; width: 100%; margin-top: 10px;"></div>
 
