@@ -430,8 +430,43 @@ function lookup_lot() {
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRuxGXeFjWJFOrJODq44gDQlLa8bpfp98&callback=init_map"></script>
 
-<form onsubmit="return lookup_lot();">
-Enter your lot number: <input type="text" size="6" id="lot" />
+<form class="form-horizontal" onsubmit="return lookup_lot();">
+<div class="form-group"> 
+    <label class="col-sm-3 control-label" for="lot">First Name</label>
+    <div class="col-sm-7">
+        <input class="form-control" type="text" id="first_name" />
+    </div>
+</div>
+<div class="form-group"> 
+    <label class="col-sm-3 control-label" for="lot">Last Name</label>
+    <div class="col-sm-7">
+        <input class="form-control" type="text" id="last_name" />
+    </div>
+</div>
+<div class="form-group"> 
+    <label class="col-sm-3 control-label" for="lot">Phone #</label>
+    <div class="col-sm-7">
+        <input class="form-control" type="text" id="phone" />
+    </div>
+</div>
+<div class="form-group"> 
+    <label class="col-sm-3 control-label" for="lot">E-mail</label>
+    <div class="col-sm-7">
+        <input class="form-control" type="text" id="phone" />
+    </div>
+</div>
+<div class="form-group"> 
+    <label class="col-sm-3 control-label" for="lot">Lot #</label>
+    <div class="col-sm-7">
+        <input class="form-control" type="text" style="width: 50px;" id="lot" />
+    </div>
+</div>
+<div class="form-group"> 
+    <div class="col-sm-7 col-md-offset-3">
+        <button type="button" class="btn btn-primary">Find Mailbox</button>
+    </div>
+</div>
 </form>
+<h3>Mailbox Map</h3>
 <div id="mailbox-map" style="height: 500px; width: 100%;"></div>
 
