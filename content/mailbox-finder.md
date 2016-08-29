@@ -22,6 +22,7 @@ function init_map() {
 
 function lookup_lot() {
    var lot = document.getElementById('lot').value;
+   var found = false;
    for (var i = 0; i < lot_data.lots.length; i++) {
      if (lot_data.lots[i].lot === lot) {
        new google.maps.Marker({
@@ -32,6 +33,7 @@ function lookup_lot() {
        });
        for (var j = 0; j < lot_data.boxes.length; j++) {
          if (lot_data.boxes[j].id === lot_data.lots[i].mailbox) {
+           found = true;
            new google.maps.Marker({
              position: lot_data.boxes[j].location,
              map:      map,
@@ -51,11 +53,16 @@ function lookup_lot() {
              document.getElementById("lot-position").style.display = "inline";
              document.getElementById("lot-position-number").innerText = lot_data.lots[i].position;
            }
+           document.getElementById("find-mailbox").style.display = "none";
            break;
          }
        }
        break;
      }
+   }
+   if (!found) {
+     alert("No mailbox found for lot '" + lot + "'. Double-check your lot " +
+           "number and try again.");
    }
    return false;
 }
@@ -107,7 +114,7 @@ Fill out this form to view your mailbox location. This information will be used 
         <button class="btn btn-default" onclick="return lookupLot('lot');">Look up lot #</button>
     </div>
 </div>
-<div class="form-group"> 
+<div class="form-group" id="find-mailbox"> 
     <div class="col-sm-7 col-md-offset-3">
         <input type="submit" class="btn btn-primary" value="Find Mailbox" />
     </div>
