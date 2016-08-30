@@ -347,7 +347,7 @@ boxes: [
     { id:  1, location: { lat: 47.72794, lng: -122.17476}, description: "16 Unit CBU" },
     { id:  2, location: { lat: 47.72865, lng: -122.17361}, description: "13 Unit CBU" },
     { id:  3, location: { lat: 47.72793, lng: -122.17234}, description: "16 Unit CBU" },
-    { id:  4, location: { lat: 47.72793, lng: -122.17234}, description: "12 Unit CBU" },
+    { id:  4, location: { lat: 47.72793, lng: -122.17234}, description: "13 Unit CBU" },
     { id:  5, location: { lat: 47.728,   lng: -122.17092}, description: "13 Unit CBU" },
     { id:  6, location: { lat: 47.72905, lng: -122.17054}, description: "16 Unit CBU" },
     { id:  7, location: { lat: 47.73041, lng: -122.16921}, description: "16 Unit CBU" },
@@ -367,7 +367,7 @@ boxes: [
     { id: 21, location: { lat: 47.73535, lng: -122.1719 }, description: "16 Unit CBU" },
     { id: 22, location: { lat: 47.73591, lng: -122.17364}, description: "16 Unit CBU" },
     { id: 23, location: { lat: 47.73523, lng: -122.17359}, description: "16 Unit CBU" },
-    { id: 24, location: { lat: 47.73524, lng: -122.17459}, description: "16 Unit CBU" },
+    { id: 24, location: { lat: 47.73524, lng: -122.17459}, description: "13 Unit CBU" },
     { id: 25, location: { lat: 47.73443, lng: -122.17392}, description: "16 Unit CBU" }
 ] };
 
