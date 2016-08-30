@@ -7,87 +7,31 @@ New locking boxes are coming to Kingsgate 5! Register to receive your mailbox ke
 
 <!--more-->
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="../../js/lot-data.js"></script>
-
-<script type="text/javascript">
-var map;
-var markers = [];
-function init_map() {
-   map = new google.maps.Map(document.getElementById('mailbox-map'), {
-     zoom: 15,
-     center: { lat: 47.73226, lng: -122.16919 }
-   });
-}
-
-function lookup_lot() {
-   var lot = document.getElementById('lot').value;
-   var found = false;
-   for (var i = 0; i < lot_data.lots.length; i++) {
-     if (lot_data.lots[i].lot === lot) {
-       new google.maps.Marker({
-         position: lot_data.lots[i].lot_location,
-         map:      map,
-         label:    "Lot " + lot,
-         title:    "Lot " + lot + " - " + lot_data.lots[i].address
-       });
-       for (var j = 0; j < lot_data.boxes.length; j++) {
-         if (lot_data.boxes[j].id === lot_data.lots[i].mailbox) {
-           found = true;
-           new google.maps.Marker({
-             position: lot_data.boxes[j].location,
-             map:      map,
-             label:    "Mailbox #" + lot_data.boxes[j].id,
-             title:    "Mailbox #" + lot_data.boxes[j].id + 
-                       " (" + lot_data.boxes[j].description + ")"
-           });
-           map.setZoom(18);
-           var l1 = lot_data.boxes[j].location;
-           var l2 = lot_data.lots[i].lot_location;
-           map.setCenter({ lat: (l1.lat + l2.lat) / 2,
-                           lng: (l1.lng + l2.lng) / 2});
-           document.getElementById("mailbox-alert").style.display = "block";
-           document.getElementById("lot-number").innerText = lot;
-           document.getElementById("mailbox-type").innerText = lot_data.boxes[j].description;
-           if (lot_data.lots[i].position) {
-             document.getElementById("lot-position").style.display = "inline";
-             document.getElementById("lot-position-number").innerText = lot_data.lots[i].position;
-           }
-           document.getElementById("find-mailbox").style.display = "none";
-           break;
-         }
-       }
-       break;
-     }
-   }
-   if (!found) {
-     alert("No mailbox found for lot '" + lot + "'. Double-check your lot " +
-           "number and try again.");
-   }
-   return false;
-}
-</script>
+<script src="../../js/lot-mailbox.js"></script>
 
 <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRuxGXeFjWJFOrJODq44gDQlLa8bpfp98&callback=init_map"></script>
 
 <div class="alert alert-info">
-Fill out this form to view your mailbox location. This information will be used <strong>only</strong> to communicate with you about the locking mailboxes. 
+Fill out this form to view your mailbox location. This information will be used <strong>only</strong> for communications from the HOA.
 </div>
 
 <form class="form-horizontal" onsubmit="return lookup_lot();">
 <div class="form-group"> 
-    <label class="col-sm-3 control-label" for="lot">First Name</label>
+    <label class="col-sm-3 control-label" for="firstname">First Name</label>
     <div class="col-sm-7">
-        <input class="form-control" type="text" id="first_name" required="true" />
+        <input class="form-control" type="text" id="firstname" required="true" />
     </div>
 </div>
 <div class="form-group"> 
-    <label class="col-sm-3 control-label" for="lot">Last Name</label>
+    <label class="col-sm-3 control-label" for="lastname">Last Name</label>
     <div class="col-sm-7">
-        <input class="form-control" type="text" id="last_name" required="true" />
+        <input class="form-control" type="text" id="lastname" required="true" />
     </div>
 </div>
 <div class="form-group"> 
-    <label class="col-sm-3 control-label" for="lot">Phone #</label>
+    <label class="col-sm-3 control-label" for="phone">Phone #</label>
     <div class="col-sm-7">
         <input class="form-control" type="text" id="phone" required="true" style="width: 75%" />
     </div>
