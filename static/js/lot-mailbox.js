@@ -60,6 +60,9 @@ function lookup_lot() {
                  email:            document.getElementById("email").value,
                  mailbox_position: l.position }
            });
+
+           // navigate to header
+           window.location.hash = "#map-header";
            break;
          }
        }

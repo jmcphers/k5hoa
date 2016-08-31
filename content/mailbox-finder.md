@@ -54,7 +54,7 @@ Fill out this form to view your mailbox location. This information will be used 
     <div class="col-sm-7">
         <input id="house" type="text" style="width: 25%" />
         <select id="street" style="width: 70%; display: none;"></select>
-        <button class="btn btn-default" onclick="return lookupLot('lot');">Look up lot #</button>
+        <input type="button" class="btn btn-default" onclick="return lookupLot('lot');" value="Look up lot #" />
     </div>
 </div>
 <div class="form-group" id="find-mailbox"> 
@@ -63,7 +63,7 @@ Fill out this form to view your mailbox location. This information will be used 
     </div>
 </div>
 </form>
-<h3>Mailbox Map</h3>
+<h3 id="map-header">Mailbox Map</h3>
 <div id="mailbox-alert" class="alert alert-success" style="display: none;">
 This map shows the location of the locking mailbox (marked with M) for lot <strong id="lot-number"></strong> (marked with L). This is a <span id="mailbox-type"> mailbox</span>. <span id="lot-position" style="display: none;">Your mailbox number in the unit is #<strong id="lot-position-number"></strong>.</span>
 </div>
