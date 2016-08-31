@@ -8,7 +8,7 @@ menu = "main"
 
 <script src="../js/lot-data.js"></script>
 
-</script>
+<script language="text/javascript">
 var checkForm = function() {
     var el = document.getElementById("os1");
     if (!el.value) {
