@@ -4,7 +4,7 @@ title = "Mailbox Finder"
 sideimage = "img/cbu-250.png"
 +++ 
 
-New locking boxes are coming to Kingsgate 5! This page will help you find the location of your locking mailbox. Note that most homes don't yet have an assigned number within the cluster yet; when your mailbox is ready you'll receive your number along with three mailbox keys. 
+New locking boxes are coming to Kingsgate 5! This page will help you find the location of your locking mailbox. Note that most homes don't yet have an assigned number within the cluster yet; when your mailbox is ready you'll receive your number along with three mailbox keys. Read the [letter to homeowners](../pdf/KG5MailboxLetter.pdf) for more information.
 
 <!--more-->
 
