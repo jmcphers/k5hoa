@@ -15,6 +15,7 @@ There is a $25 fee for documents not available on this website. Contact the Trea
 
 ## Newsletters
 
+[{{< figure src="../img/September2016Newsletter-thumb.png" title="September 2016" class="document-thumbnail">}}](../pdf/September2016Newsletter.pdf)
 [{{< figure src="../img/May2016Newsletter-thumb.png" title="May 2016" class="document-thumbnail">}}](../pdf/May2016Newsletter.pdf)
 [{{< figure src="../img/March2016Newsletter-thumb.png" title="March 2016" class="document-thumbnail">}}](../pdf/March2016Newsletter.pdf)
 
