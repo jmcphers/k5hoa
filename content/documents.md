@@ -33,12 +33,13 @@ There is a $25 fee for documents not available on this website. Contact the Trea
 
 ## HOA Meeting Minutes
 
-[{{< figure src="../img/K5_HOA_2016_01_11_Approved-thumb.png" title="January 11, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_01_11_Approved.pdf)
-[{{< figure src="../img/K5_HOA_2016_02_08_Approved-thumb.png" title="February 8, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_02_08_Approved.pdf)
-[{{< figure src="../img/K5_HOA_2016_03_14_Approved-thumb.png" title="March 14, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_03_14_Approved.pdf)
-[{{< figure src="../img/K5_HOA_2016_04_12_Approved-thumb.png" title="April 12, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_04_12_Approved.pdf)
-[{{< figure src="../img/K5_HOA_2016_04_25_Approved-thumb.png" title="April 25, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_04_25_Approved.pdf)
-[{{< figure src="../img/K5_HOA_2016_05_16_Approved-thumb.png" title="May 16, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_05_16_Approved.pdf)
-[{{< figure src="../img/K5_HOA_2016_06_13_Approved-thumb.png" title="June 13, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_06_13_Approved.pdf)
+[{{< figure src="../img/K5_HOA_2016_08_15_Approved-thumb.png" title="August 15, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_08_15_Approved.pdf)
 [{{< figure src="../img/K5_HOA_2016_07_14_Approved-thumb.png" title="July 14, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_07_14_Approved.pdf)
+[{{< figure src="../img/K5_HOA_2016_06_13_Approved-thumb.png" title="June 13, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_06_13_Approved.pdf)
+[{{< figure src="../img/K5_HOA_2016_05_16_Approved-thumb.png" title="May 16, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_05_16_Approved.pdf)
+[{{< figure src="../img/K5_HOA_2016_04_25_Approved-thumb.png" title="April 25, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_04_25_Approved.pdf)
+[{{< figure src="../img/K5_HOA_2016_04_12_Approved-thumb.png" title="April 12, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_04_12_Approved.pdf)
+[{{< figure src="../img/K5_HOA_2016_03_14_Approved-thumb.png" title="March 14, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_03_14_Approved.pdf)
+[{{< figure src="../img/K5_HOA_2016_02_08_Approved-thumb.png" title="February 8, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_02_08_Approved.pdf)
+[{{< figure src="../img/K5_HOA_2016_01_11_Approved-thumb.png" title="January 11, 2016" class="document-thumbnail">}}](../pdf/K5_HOA_2016_01_11_Approved.pdf)
 
