@@ -1,8 +1,8 @@
 +++
 date = "2016-09-12"
-title = "Kingsgate 5 Announcements"
+title = "Mailing List"
 +++ 
 
-# Unsubscription Successful
+### Unsubscribe
 
-We've removed your e-mail address from the list; you will no longer receive e-mail updates from Kingsate 5. 
+We're sorry to see you go! Please enter your e-mail address below to confirm you want to leave the Kingsgate 5 mailing list. 
