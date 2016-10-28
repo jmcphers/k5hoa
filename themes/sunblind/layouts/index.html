@@ -19,20 +19,12 @@
 
 <div class="row">
   <div class="posts col-md-8 col-sm-8">
-    <div class="well">
-        <div style="overflow: hidden;">
-            <img src="{{ .Site.BaseURL }}img/cbu-100.png" style="float: left; margin-right: 25px;"> New locking boxes are coming to Kingsgate 5! <strong><a href="{{ .Site.BaseURL }}pdf/KG5MailboxLetter.pdf">Read the letter to homeowners</a></strong>, and <strong><a href="{{ .Site.BaseURL }}mailbox-finder/">find your new mailbox location.</a></strong>
-        </div>
-    </div>
     {{ range first 10 .Data.Pages }}
       {{ if eq .Type "post" }}
       <article>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <h3>{{ .Date.Format "January 2, 2006" }}</h3>
-        <p>{{ .Summary }}</p>
-        {{ if .Truncated }}
-          <em><a class="morelink" href="{{ .Permalink }}">Read more &raquo;</a></em>
-        {{ end }}
+        <p>{{ .Content }}</p>
       </article>
       {{ end }}
     {{ end }}
