@@ -14,5 +14,5 @@ script:
 # deploy it!
 after_success:
   - cd public
-  - scp -i kingsgate5-travis -r * kingsgate5@kingsgate5.com:kingsgate5.com
+  - scp -i ../kingsgate5-travis -o StrictHostKeyChecking=no -r * kingsgate5@kingsgate5.com:kingsgate5.com
 
