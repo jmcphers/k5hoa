@@ -14,10 +14,6 @@ Pool phone number: 425-821-7999<br />
 Pool Manager, Cindy Klein: 425-823-8357<br />
 </div>
 
-<div class="alert alert-danger" role="alert">
-<strong>The lifeguard desk will be staffed beginning May 23rd from 6pm to 8pm. Neighbors are welcome to sign up for pool parties and swimming lessons during those times.</strong>
-</div>
-
 This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $2 per guest.
  
 [<img src="../img/poolinfo-thumb.png" class="content-thumbnail" />](../pdf/poolinfo.pdf)
@@ -31,10 +27,6 @@ View our [pool rules online]({{< relref "pool-rules.md" >}}) or visit the front 
  
 ## Passes
 
-<div class="alert alert-warning" role="alert">
-Pool passes are <strong>sold out</strong> for the 2016 season.
-</div>
-
 Each year we sell a limited number of pool passes to outside members. The pass is for your current household members. If you were a 2015 Pool Pass member and wish to renew your membership please <a href="../pdf/kingsgate5-pooluse-2016.pdf">download the form</a> with payment of $475.00 and mail to:
  
     Kingsgate V HOA
@@ -45,9 +37,9 @@ Refund Policy: All transactions are final, no refunds will be processed. In the 
  
 ## Hours
  
-The pool opens Memorial Day weekend Saturday May 28th, 2016 with the Early Season hours. Regular Season hours begin in mid June.
+The pool opens Memorial Day weekend with the Early Season hours. Regular Season hours begin in mid June.
  
-The 2016 pool schedule will be posted before pool opening, this schedule will include the Early Season hours, the Regular Season hours, and Early Closures for swim meets.
+The 2017 pool schedule will be posted before pool opening, this schedule will include the Early Season hours, the Regular Season hours, and Early Closures for swim meets.
  
 NOTE: The first part of the season the pool is shared with the Gators swim team.
  
