@@ -1,6 +1,7 @@
 +++
 date = "2016-10-27"
 title = "Fall Festival"
+draft = true
 +++ 
 
 
