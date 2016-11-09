@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jmcphers/k5hoa.svg?branch=master)](https://travis-ci.org/jmcphers/k5hoa)
+
 # k5hoa
 
 This repo contains the source code for the Kingsgate 5 Homeowner's Association Website. 
@@ -8,7 +10,7 @@ The site is produced with the [Hugo](http://gohugo.io/) static site generator an
 
     hugo server --theme=sunblind
 
-The Sunblind theme actually has nothing to do with Kingsgate 5. It's named in honor of [Tim Hecker](http://www.sunblind.net/), who produces extremely wonderful music, later forays into questionable souncd sources such as organs and choirs notwithstanding. 
+The Sunblind theme actually has nothing to do with Kingsgate 5. It's named in honor of [Tim Hecker](http://www.sunblind.net/), who produces extremely wonderful music, later forays into questionable sound sources such as organs and choirs notwithstanding. 
 
 Nothing specific to the HOA should be in the theme.
 
