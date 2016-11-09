@@ -1,6 +1,7 @@
 # decrypt deployment private key
 before_install:
   - openssl aes-256-cbc -K $encrypted_3d83f42c7c33_key -iv $encrypted_3d83f42c7c33_iv -in kingsgate5-travis.enc -out kingsgate5-travis -d
+  - chmod 0600 kingsgate5-travis
 
 # install hugo
 install:
