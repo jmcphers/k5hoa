@@ -1,6 +1,7 @@
 +++
 date = "2016-11-08"
 title = "New Mailboxes"
+draft = true
 +++ 
 
 New locking mailboxes are making their way to Kingsgate 5! <strong><a href="pdf/KG5MailboxKeyPickUp98034.pdf">Read the letter to homeowners</a></strong>, and <strong><a href="mailbox-finder/">find your new mailbox location.</a></strong>

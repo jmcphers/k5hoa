@@ -22,7 +22,7 @@
     {{ range first 10 .Data.Pages }}
       {{ if eq .Type "post" }}
       <article>
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <h2>{{ .Title }}</h2>
         <h3>{{ .Date.Format "January 2, 2006" }}</h3>
         <p>{{ .Content }}</p>
       </article>
