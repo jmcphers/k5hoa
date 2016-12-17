@@ -1,6 +1,7 @@
 +++
 date = "2016-11-26"
 title = "Holiday Lights Contest"
+draft = true
 +++ 
 
 <div style="text-align: center; margin-bottom: 15px;">
