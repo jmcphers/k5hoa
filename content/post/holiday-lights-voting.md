@@ -17,4 +17,5 @@ Take a stroll through the neighborhood and note your favorites! Then...
 
 <div style="font-weight: bold; font-size: 18pt; text-align: center; margin-bottom: 25px;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZdwuzJVebGPbuYyT72BLL_NJ9qcM-a_qeITUsGur_s3i_EQ/viewform">Vote in the Kingsgate 5 Holiday Lights Contest</a></div>
 
+Voting will remain open through **December 24**, Christmas Eve. After that, votes will be tallied and winners announced at the Kingsgate 5 annual HOA meeting in January. Good luck to our contestants and happy holidays!
 
