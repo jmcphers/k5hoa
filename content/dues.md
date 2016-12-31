@@ -19,13 +19,13 @@ var checkForm = function() {
 }
 </script>
 
-The Kingsgate Five HOA dues are $102 per quarter, or $408 annually. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
+The Kingsgate Five HOA dues are $105 per quarter, or $420 annually. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
 
 The HOA does not offer refunds; all transactions are final.
 
 ## Pay Dues Online
 
-Fill out the form below to pay your dues online with PayPal. You may choose to pay either for the current quarter or for the entire year. If you need to pay a different amount (for instance, if you owe late fees or finance charges, or wish to make a partial payment), you will need to pay by check.
+Fill out the form below to pay your dues online with PayPal. You may choose to pay either for the current quarter or for the entire year. A convenience fee of 3% has been included in the online rate. If you need to pay a different amount (for instance, if you owe late fees or finance charges, or wish to make a partial payment), you will need to pay by check.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" onsubmit="return checkForm()" target="_top">
 
@@ -36,8 +36,8 @@ Fill out the form below to pay your dues online with PayPal. You may choose to p
 <strong>HOA Dues</strong><br>
 
 <select name="os0">
-	<option value="Quarterly">Quarterly $102.00 USD</option>
-	<option value="Yearly">Yearly $408.00 USD</option>
+	<option value="Quarterly">Quarterly $108.00 USD</option>
+	<option value="Yearly">Yearly $432.00 USD</option>
 </select> 
 <br />
 <br />
