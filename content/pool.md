@@ -14,20 +14,19 @@ Pool phone number: 425-821-7999<br />
 Pool Manager, Cindy Klein: 425-823-8357<br />
 </div>
 
-This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $2 per guest.
+This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $3 per guest.
  
-[<img src="../img/poolinfo-thumb.png" class="content-thumbnail" />](../pdf/poolinfo.pdf)
 ## Info Sheet
 
-Here is a double sided sheet you can print with all the information you need for the Pool, the Summer BBQ, Pool Parties, Swim Team, and more.
- 
+2017 information coming soon.
+
 ## Rules
 
 View our [pool rules online]({{< relref "pool-rules.md" >}}) or visit the front desk for a copy. All of our lifeguards are authorized to eject anyone from the pool grounds for any reason at anytime.
  
 ## Passes
 
-Each year we sell a limited number of pool passes to outside members. The pass is for your current household members. If you were a 2015 Pool Pass member and wish to renew your membership please <a href="../pdf/kingsgate5-pooluse-2016.pdf">download the form</a> with payment of $475.00 and mail to:
+Each year we sell a limited number of pool passes to outside members. The pass is for your current household members. If you were a 2016 Pool Pass member and wish to renew your membership please <a href="../pdf/kingsgate5-pooluse-2017.pdf">download the form</a> with payment of $550.00 and mail to:
  
     Kingsgate V HOA
     P.O. Box 1791
@@ -49,7 +48,7 @@ The pool may be open until 9:00 PM on warm weather days provided there is no poo
  
 ## Parties
 
-Pool parties are available to members/pool pass purchasers only. Prices vary depending on the number of people and the duration of the party. The base price is $50/hour with a $20 charge if an extra guard is needed. Payment is due at the time of booking and is non-refundable. You can fill out the pool party form at the pool and get further details.
+Pool parties are available to members/pool pass purchasers only. Prices vary depending on the number of people and the duration of the party. The base price is $60/hour with a $30 charge if an extra guard is needed. Payment is due at the time of booking and is non-refundable. You can fill out the pool party form at the pool and get further details.
 
 Hours available for parties:
 
@@ -59,7 +58,7 @@ Hours available for parties:
  
 ## Lessons
 
-Swim lessons are available for members ($50) and non-members ($70). These lessons will run for 9 days, with the last Friday off.  Our average class size is 4-6 per class and the levels are listed at the pool.  If you are uncertain of the level of your child should be placed, you can contact one of our swim instructors by calling the pool to schedule an assessment.
+Swim lessons are available for members ($50) and non-members ($75). These lessons will run for 9 days, with the last Friday off.  Our average class size is 4-6 per class and the levels are listed at the pool.  If you are uncertain of the level of your child should be placed, you can contact one of our swim instructors by calling the pool to schedule an assessment.
  
 Sign-up sheets will be available when the pool opens and payment is due at the time of registration.  We will do our best to schedule siblings as close to the same time as possible.  You will be called to confirm your child's time slot the Thursday before the start of the next session.
  
