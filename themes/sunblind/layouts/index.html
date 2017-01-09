@@ -19,10 +19,6 @@
 
 <div class="row">
   <div class="posts col-md-8 col-sm-8">
-    <div class="alert alert-info" role="alert">
-    The 2017 pool pass waitlist will open on <strong>January 9, 2017</strong>. Existing pool pass renewals will be mailed by February 1, 2017. 
-    </div>
-
     {{ range first 10 .Data.Pages }}
       {{ if eq .Type "post" }}
       <article>
