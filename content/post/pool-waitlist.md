@@ -1,6 +1,7 @@
 +++
 date = "2017-01-09"
 title = "Pool Pass Waitlist"
+draft = true
 +++
 
 The Kingsgate 5 Pool Pass waitlist is open for 2017. 
