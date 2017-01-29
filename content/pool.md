@@ -31,6 +31,8 @@ Each year we sell a limited number of pool passes to outside members. The pass i
     Kingsgate V HOA
     P.O. Box 1791
     Woodinville  Wa. 98072
+
+If you were not a 2016 Pool Pass member, you can [join the pool pass waitlist](https://docs.google.com/forms/d/e/1FAIpQLSfZZRAx6n1ZcENNtyVmzB-xsOPXMmYXRq3mB6o856euZ1iaTg/viewform).
  
 Refund Policy: All transactions are final, no refunds will be processed. In the event of a billing error, please send email to: [treasurer@kingsgate5.com](mailto:treasurer@kingsgate5.com)
  
