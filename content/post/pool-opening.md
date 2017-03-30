@@ -1,12 +1,10 @@
-
 +++
-date = "2016-05-16"
-title = "Pool Opens May 28!"
-draft = true
+date = "2017-03-29"
+title = "Pool Opens May 29!"
 +++
 
 <script type="text/javascript">
-var deadline = 'May 28 2016 12:00:00';
+var deadline = 'May 29 2017 12:00:00';
 
 function getTimeRemaining(endtime){
   var t = Date.parse(endtime) - (new Date());
@@ -106,9 +104,7 @@ window.addEventListener("load", function() {
   </div>
 </div>
 
-The Kingsgate 5 pool is opening soon! Mark your calendars for opening day: **Saturday, May 28, 2016, 12 - 8pm**. 
-
-
+It's been cold and wet all winter, but spring is in the air and summer's just around the corner! Mark your calendars for the Kingsgate 5 pool opening day: **Saturday, May 29, 2017, 12 - 8pm**. 
 
 <!--more-->
 
