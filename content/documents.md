@@ -22,9 +22,10 @@ There is a $25 fee for documents not available on this website. Contact the Trea
 
 ## Pool Information
 
-[{{< figure src="../img/poolinfo-thumb.png" title="Pool Info" class="document-thumbnail">}}](../pdf/poolinfo.pdf)
+[{{< figure src="../img/poolinfo-2017-thumb.png" title="Pool Info" class="document-thumbnail">}}](../pdf/poolinfo-2017.pdf)
 [{{< figure src="../img/kingsgate5-poolrules-thumb.png" title="Pool Rules" class="document-thumbnail">}}](../pdf/kingsgate5-poolrules.pdf)
 [{{< figure src="../img/kingsgate5-pooluse-2017-thumb.png" title="Pool Use Permit" class="document-thumbnail">}}](../pdf/kingsgate5-pooluse-2017.pdf)
+[{{< figure src="../img/poolparty-rules-thumb.png" title="Pool Parties" class="document-thumbnail">}}](../pdf/poolparty-rules.pdf)
 
 ## Legal Documents
 

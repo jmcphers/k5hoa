@@ -18,7 +18,7 @@ This is a private pool for those who live in the neighborhood and those who have
  
 ## Info Sheet
 
-2017 information coming soon.
+We have a [double-sided information sheet](../pdf/poolinfo-2017.pdf) you can download and print with all the important information for the 2017 pool season.
 
 ## Rules
 
@@ -50,7 +50,7 @@ The pool may be open until 9:00 PM on warm weather days provided there is no poo
  
 ## Parties
 
-Pool parties are available to members/pool pass purchasers only. Prices vary depending on the number of people and the duration of the party. The base price is $60/hour with a $30 charge if an extra guard is needed. Payment is due at the time of booking and is non-refundable. You can fill out the pool party form at the pool and get further details.
+Pool parties are available to members/pool pass purchasers only. Prices vary depending on the number of people and the duration of the party. The base price is $60/hour with a $30 charge if an extra guard is needed. Payment is due at the time of booking and is non-refundable. The pool party rules and reservation form is available online ([Pool Party Rules and Reservation](../pdf/poolparty-rules.pdf)) or at the pool.
 
 Hours available for parties:
 
