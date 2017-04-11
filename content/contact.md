@@ -41,5 +41,5 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board_kelly.jpg" name="Kelly McPherson" title="Recreation" email="recreation@kingsgate5.com" >}}
 
-{{< person img="../img/board_bill.jpg" name="James Weinrod" title="Gator Liaison" >}}
+{{< person name="James Weinrod" title="Gator Liaison" >}}
 
