@@ -50,7 +50,7 @@ The pool may be open until 9:00 PM on warm weather days provided there is no poo
  
 ## Parties
 
-Pool parties are available to members/pool pass purchasers only. Prices vary depending on the number of people and the duration of the party. The base price is $60/hour with a $30 charge if an extra guard is needed. Payment is due at the time of booking and is non-refundable. The pool party rules and reservation form is available online ([Pool Party Rules and Reservation](../pdf/poolparty-rules.pdf)) or at the pool.
+Pool parties are available to members/pool pass purchasers only. Prices vary depending on the number of people and the duration of the party. The base price is $60/hour with a $25 charge if an extra guard is needed. Payment is due at the time of booking and is non-refundable. The pool party rules and reservation form is available online ([Pool Party Rules and Reservation](../pdf/poolparty-rules.pdf)) or at the pool.
 
 Hours available for parties:
 
@@ -60,7 +60,7 @@ Hours available for parties:
  
 ## Lessons
 
-Swim lessons are available for members ($50) and non-members ($75). These lessons will run for 9 days, with the last Friday off.  Our average class size is 4-6 per class and the levels are listed at the pool.  If you are uncertain of the level of your child should be placed, you can contact one of our swim instructors by calling the pool to schedule an assessment.
+Swim lessons are available for members ($60) and non-members ($80). These lessons will run for 9 days, with the last Friday off.  Our average class size is 4-6 per class and the levels are listed at the pool.  If you are uncertain of the level of your child should be placed, you can contact one of our swim instructors by calling the pool to schedule an assessment.
  
 Sign-up sheets will be available when the pool opens and payment is due at the time of registration.  We will do our best to schedule siblings as close to the same time as possible.  You will be called to confirm your child's time slot the Thursday before the start of the next session.
  
