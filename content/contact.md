@@ -27,7 +27,7 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board_royal.jpg" name="Royal Hanson" title="President" email="president@kingsgate5.com" >}}
 
-{{< person name="Alan Nelson" title="Vice President" >}}
+{{< person name="Alan Nelson" title="Vice President" email="compliance@kingsgate5.com" >}}
 
 {{< person img="../img/board_craig.jpg" name="Craig Carlston" title="Pool Trustee" >}}
 
