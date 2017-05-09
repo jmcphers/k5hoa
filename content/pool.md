@@ -8,8 +8,8 @@ menu = "main"
 +++
 
 <div class="alert alert-info" role="alert">
-<strong>The pool is open from Memorial Day weekend to Labor Day weekend.</strong><br />
-Hours are <strong>11:15 - 8pm</strong> on weekdays, <strong>12pm - 8pm</strong> on Saturday, and <strong>12pm - 7pm</strong> on Sunday. <br />
+<strong>The pool opens Memorial Day weekend Saturday, May 27th, 2017 - 12:00-8:00</strong><br />
+Spring hours are **Monday - Friday, 3:30 - 6:30pm** (swim team practices from 6:30 - 9:15)
 Pool phone number: 425-821-7999<br />
 Pool Manager, Cindy Klein: 425-823-8357<br />
 </div>
