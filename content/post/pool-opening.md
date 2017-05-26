@@ -104,7 +104,7 @@ window.addEventListener("load", function() {
   </div>
 </div>
 
-It's been cold and wet all winter, but spring is in the air and summer's just around the corner! Mark your calendars for the Kingsgate 5 pool opening day: **Saturday, May 27, 2017, 12 - 8pm**. 
+The Kingsgate 5 Pool opens **Saturday, May 27, 2017, 12 - 8pm**. There are repairs being done and the pool phone is currently down, but we still plan to open Saturday at noon!  We'll update this space if that changes. See you in the water!
 
 <!--more-->
 
