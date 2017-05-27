@@ -104,7 +104,9 @@ window.addEventListener("load", function() {
   </div>
 </div>
 
-We're working hard to get the pool ready today! We anticipate opening at about 2pm, but recommend calling the pool phone to double check (425-821-7999) before heading over. See you in the water!
+<div class="alert alert-info" style="font-weight: bold; font-size: 120%;" role="alert">
+    We anticipate opening at about 2pm, but recommend calling the pool phone to double check (425-821-7999) before heading over. See you in the water!
+</div>
 
 <!--more-->
 
