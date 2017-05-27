@@ -4,7 +4,7 @@ title = "Pool Opens May 27!"
 +++
 
 <script type="text/javascript">
-var deadline = 'May 27 2017 12:00:00';
+var deadline = 'May 27 2017 14:00:00';
 
 function getTimeRemaining(endtime){
   var t = Date.parse(endtime) - (new Date());
@@ -104,7 +104,7 @@ window.addEventListener("load", function() {
   </div>
 </div>
 
-The Kingsgate 5 Pool opens **Saturday, May 27, 2017, 12 - 8pm**. There are repairs being done and the pool phone is currently down, but we still plan to open Saturday at noon!  We'll update this space if that changes. See you in the water!
+We're working hard to get the pool ready today! We anticipate opening at about 2pm, but recommend calling the pool phone to double check (425-821-7999) before heading over. See you in the water!
 
 <!--more-->
 
