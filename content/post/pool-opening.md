@@ -1,6 +1,6 @@
 +++
 date = "2017-03-29"
-title = "Pool Opens May 27!"
+title = "Pool Opens Soon!"
 +++
 
 <script type="text/javascript">
@@ -105,7 +105,7 @@ window.addEventListener("load", function() {
 </div>
 
 <div class="alert alert-info" style="font-weight: bold; font-size: 120%;" role="alert">
-    We anticipate opening at about 2pm, but recommend calling the pool phone to double check (425-821-7999) before heading over. See you in the water!
+    Despite valient efforts from our team, we won't be able to open today (Saturday). Check back soon for updates!
 </div>
 
 <!--more-->
