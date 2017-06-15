@@ -1,6 +1,6 @@
 +++
-date = "2017-06-07"
-title = "Pool Open at 1pm Today!"
+date = "2017-06-15"
+title = "Pool Opening Early on First Day of Summer!"
 +++
 
 <script type="text/javascript">
@@ -104,11 +104,7 @@ window.addEventListener("load", function() {
   </div>
 </div>
 
-<div class="alert alert-info" style="font-weight: bold; font-size: 120%;" role="alert">
-The pool opens early today (Wed 6/7) at 1pm!
-</div>
-
-It's finally warm and sunny! We're opening early today to help you enjoy the sunshine. We'll also be open at 1 the next two Wednesdays if the weather's nice!
+The first day of summer is approaching! We'll open early (1pm) on Wednesday 6/21/2017 and have free popsicles to celebrate!
 
 <!--more-->
 

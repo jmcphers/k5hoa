@@ -9,9 +9,13 @@ menu = "main"
 
 <div class="alert alert-info" role="alert">
 <strong>The pool opens Memorial Day weekend Saturday, May 27th, 2017 - 12:00-8:00</strong><br />
-Spring hours are **Monday - Friday, 3:30 - 6:30pm** (swim team practices from 6:30 - 9:15)
+Spring hours are <strong>Monday - Friday, 3:30 - 6:30pm</strong> (swim team practices from 6:30 - 9:15)
 Pool phone number: 425-821-7999<br />
 Pool Manager, Cindy Klein: 425-823-8357<br />
+</div>
+
+<div class="alert alert-info" role="alert">
+The pool will be open early (1pm) on 6/21/2017 to celebrate the first day of summer!
 </div>
 
 This is a private pool for those who live in the neighborhood and those who have purchased a pool pass. One-day passes are not sold. However, every household is allowed up to 4 guests/day at $3 per guest.
