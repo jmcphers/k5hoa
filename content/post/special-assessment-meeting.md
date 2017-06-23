@@ -24,5 +24,5 @@ Kingsgate Highlands Division Five Homes Association
 
 <hr />
 
-*If you would like to allow a proxy to vote on your behalf, please download and sign the [2017 Special Assessment Proxy Ballot form](/pdf/2017-KG5-Special-Assessment-Proxy.pdf), and have your proxy take it with them to the meeting.*
+*If you would like to allow a proxy to vote on your behalf, please download and sign the [2017 Special Assessment Proxy Ballot form](/pdf/2017-KG5-Special-Assessment-Proxy.pdf).*
 
