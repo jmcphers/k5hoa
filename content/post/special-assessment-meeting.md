@@ -26,3 +26,7 @@ Kingsgate Highlands Division Five Homes Association
 
 *If you would like to allow a proxy to vote on your behalf, please download and sign the [2017 Special Assessment Proxy Ballot form](/pdf/2017-KG5-Special-Assessment-Proxy.pdf).*
 
+<hr />
+
+[{{< figure src="img/KG5-Park-Option2.thumb.png" title="Kingsgate 5 Park Preliminary Plan" class="document-thumbnail">}}](../pdf/KG5-Park-Option2.pdf)
+
