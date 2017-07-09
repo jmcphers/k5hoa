@@ -6,7 +6,7 @@ TIMESTAMP=`date +%Y-%m-%dT%H:%M:%S%z`
 UPDATEFILE=../content/pool/$DATE.md
 
 # create the content file
-printf "+++\ndate = \"$TIMESTAMP\"\n+++\n$1\n" > $UPDATEFILE
+printf "+++\ndate = \"$TIMESTAMP\"\n+++\n\n$1\n" > $UPDATEFILE
 
 # add and commit
 git add $UPDATEFILE
