@@ -301,6 +301,12 @@ div.person {
   font-weight: 300;
 }
 
+.pool-alert h3 {
+  font-size: 13px;
+  text-transform: uppercase;
+  margin-top: 0px;
+}
+
 div.mail {
   background-color: white;
   border: 1px solid #909090;
