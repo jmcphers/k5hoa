@@ -36,6 +36,7 @@ There is a $25 fee for documents not available on this website. Contact the Trea
 
 ## HOA Meeting Minutes
 
+[{{< figure src="../img/K5_HOA_2017_06_12_Approved-thumb.png" title="June 12, 2017" class="document-thumbnail">}}](../pdf/K5_HOA_2017_06_12_Approved.pdf)
 [{{< figure src="../img/K5_HOA_2017_05_15_Approved-thumb.png" title="May 15, 2017" class="document-thumbnail">}}](../pdf/K5_HOA_2017_05_15_Approved.pdf)
 [{{< figure src="../img/K5_HOA_2017_04_10_Approved-thumb.png" title="April 10, 2017" class="document-thumbnail">}}](../pdf/K5_HOA_2017_04_10_Approved.pdf)
 [{{< figure src="../img/K5_HOA_2017_03_07_Approved-thumb.png" title="March 7, 2017" class="document-thumbnail">}}](../pdf/K5_HOA_2017_03_07_Approved.pdf)
