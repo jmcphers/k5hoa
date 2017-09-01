@@ -1,0 +1,71 @@
+
+{{ partial "header.html" . }}
+{{ partial "toplinks.html" . }}
+{{ partial "content.html" . }}
+
+
+<div class="row">
+<div class="col-md-8 col-sm-8">
+
+<div class="alert alert-warning" role="alert">
+There is a $25 fee for documents not available on this website. Contact the Treasurer to obtain copies of other documents.
+</div>
+
+<h2>Newsletters</h2>
+
+{{ range .Data.Pages }}
+    {{ if eq .Type "newsletter" }}
+    <a href="../pdf/{{ .Params.pdf }}">
+        <figure class="document-thumbnail">
+            <img src="../img/{{ .Params.thumbnail }}" />
+            <figcaption>
+                <h4>{{ .Date.Format "January 2006" }}</h4>
+            </figcaption>
+        </figure>
+    </a>
+    {{ end }}
+{{ end }}
+
+<h2>Pool Information</h2>
+
+{{ range .Data.Pages }}
+    {{ if eq .Type "pool" }}
+    <a href="../pdf/{{ .Params.pdf }}">
+        <figure class="document-thumbnail">
+            <img src="../img/{{ .Params.thumbnail }}" />
+            <figcaption>
+                <h4>{{ .Title }}</h4>
+            </figcaption>
+        </figure>
+    </a>
+    {{ end }}
+{{ end }}
+
+<h2>Legal Documents</h2>
+
+{{ range .Data.Pages }}
+    {{ if eq .Type "legal" }}
+    <a href="../pdf/{{ .Params.pdf }}">
+        <figure class="document-thumbnail">
+            <img src="../img/{{ .Params.thumbnail }}" />
+            <figcaption>
+                <h4>{{ .Title }}</h4>
+            </figcaption>
+        </figure>
+    </a>
+    {{ end }}
+{{ end }}
+
+<h2>HOA Meeting Minutes</h2>
+<ul>
+{{ range .Data.Pages }}
+    {{ if eq .Type "minutes" }}
+    <li><a href="../pdf/minutes/{{ .Date.Format "2006_01_02" }}.pdf">{{ .Date.Format "January 2, 2006" }}</li>
+    {{ end }}
+{{ end }}
+
+</div>
+</div>
+
+{{ partial "footer.html" . }}
+
