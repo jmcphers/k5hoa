@@ -1,6 +1,7 @@
 +++
 title = "Playground Renovation & Proposed Special Assessment"
 date = "2017-10-02T21:53:21-08:00"
+draft = true
 +++
 
 Hello Kingsgate Five Homeowners,
