@@ -1,6 +1,7 @@
 +++
 title = "Special Assessment Meeting"
 date = "2017-12-04T21:53:21-08:00"
+draft = true
 +++
 
 The Board of Trustees requests your attendance for a special meeting of the Kingsgate Highlands Division Number Five Homes Association to be held on/at:
