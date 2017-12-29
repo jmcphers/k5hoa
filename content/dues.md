@@ -8,8 +8,8 @@ menu = "main"
 
 <script src="../js/lot-data.js"></script>
 
-<script language="text/javascript">
-var checkForm = function() {
+<script>
+function checkForm() {
     var el = document.getElementById("os1");
     if (!el.value) {
         alert("You must enter a lot number. If you don't know your lot number, try clicking 'I don't know my lot number' to look it up from your house and street number.");
@@ -19,7 +19,7 @@ var checkForm = function() {
 }
 </script>
 
-The Kingsgate Five HOA dues are $105 per quarter, or $420 annually. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
+The Kingsgate Five HOA dues for 2018 are $432 per year, or $108 per quarter. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
 
 The HOA does not offer refunds; all transactions are final.
 
@@ -27,17 +27,17 @@ The HOA does not offer refunds; all transactions are final.
 
 Fill out the form below to pay your dues online with PayPal. You may choose to pay either for the current quarter or for the entire year. A convenience fee of 3% has been included in the online rate. If you need to pay a different amount (for instance, if you owe late fees or finance charges, or wish to make a partial payment), you will need to pay by check.
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" onsubmit="return checkForm()" target="_top">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" onSubmit="return checkForm();" target="_top">
 
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="LNH6AZHAA35MS">
-<input type="hidden" name="on0" value="HOA Dues">
+<input type="hidden" name="hosted_button_id" value="9TJHK3QPBETHC">
+<input type="hidden" name="on0" value="2018 HOA Dues">
 
 <strong>HOA Dues</strong><br>
 
 <select name="os0">
-	<option value="Quarterly">Quarterly $108.00 USD</option>
-	<option value="Yearly">Yearly $432.00 USD</option>
+	<option value="Quarterly">Quarterly $111.25 USD</option>
+	<option value="Yearly">Yearly $445.00 USD</option>
 </select> 
 <br />
 <br />
