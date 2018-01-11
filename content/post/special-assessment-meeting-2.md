@@ -1,6 +1,7 @@
 +++
 title = "Special Assessment Meeting"
 date = "2017-12-07"
+draft = true
 +++
 
 <div class="alert alert-info">
