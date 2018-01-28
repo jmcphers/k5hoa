@@ -1,6 +1,6 @@
 +++
 title = "Gators Swim Team"
-date = "2018-01-271T21:53:21-08:00"
+date = "2018-01-27T21:53:21-08:00"
 +++
 
 I would like to extend an invitation to all of our homeowner families who have children interested in swimming for the Kingsgate Gators Swim Team, which is based at our neighborhood pool. Registration for homeowners begins on **February 15, 2018**.
