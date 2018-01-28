@@ -1,6 +1,7 @@
 +++
 title = "2018 Annual Meeting"
 date = "2018-01-01T21:53:21-08:00"
+draft = true
 +++
 
 This has been another great year for Kingsgate Five. Good weather led to many members enjoying the sun and water at the park and pool. The annual Easter Egg Hunt in April and Association BBQ at the pool in July were well attended as was the December gathering at the pool where we enjoyed cookies and cocoa and voted for the winner of our annual house lighting competition. Thanks to all who helped organize and attend these fun events. 
