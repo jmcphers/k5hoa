@@ -360,6 +360,10 @@ div.mail {
   font-size: 14px;
 }
 
+.infotable td {
+   padding: 5px;
+}
+
 @media (max-width: 768px) {
   .content nav li {
     display: inline-block;
