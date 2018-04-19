@@ -1,11 +1,10 @@
 +++
-date = "2017-06-15"
-title = "Pool Opening Early on First Day of Summer!"
-draft = true
+date = "2018-04-18"
+title = "Pool Opening Countdown!"
 +++
 
 <script type="text/javascript">
-var deadline = 'May 27 2017 14:00:00';
+var deadline = 'May 26 2018 12:00:00';
 
 function getTimeRemaining(endtime){
   var t = Date.parse(endtime) - (new Date());
@@ -46,7 +45,7 @@ function initializeClock(id, endtime){
 }
 
 window.addEventListener("load", function() {
-   // initializeClock('clockdiv', deadline);
+   initializeClock('clockdiv', deadline);
 });
 
 </script>
@@ -105,7 +104,7 @@ window.addEventListener("load", function() {
   </div>
 </div>
 
-The first day of summer is approaching! We'll open early (1pm) on Wednesday 6/21/2017 and have free popsicles to celebrate!
+If you think this Spring has been slightly chillier and wetter than usual, [you'd be right](https://cliffmass.blogspot.com/2018/04/is-this-unusually-poor-spring-in.html). Take heart, however -- summer is just around the corner and the pool will be opening before you know it!
 
 <!--more-->
 
