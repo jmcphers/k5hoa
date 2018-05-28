@@ -1,6 +1,7 @@
 +++
 date = "2018-04-18"
 title = "Pool Opening Countdown!"
+expirydate = "2018-05-27"
 +++
 
 <script type="text/javascript">
