@@ -29,8 +29,6 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person name="Alan Nelson" title="Vice President" email="compliance@kingsgate5.com" >}}
 
-{{< person img="../img/board_craig.jpg" name="Craig Carlston" title="Pool Trustee" >}}
-
 {{< person img="../img/board_susan.jpg" name="Susan Schilling" title="Secretary" email="secretary@kingsgate5.com" >}}
 
 {{< person img="../img/board_ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
@@ -42,4 +40,8 @@ To e-mail the Kingsgate Five board, you may send a message to:
 {{< person img="../img/board_kelly.jpg" name="Kelly McPherson" title="Recreation" email="recreation@kingsgate5.com" >}}
 
 {{< person name="James Weinrod" title="Gator Liaison" >}}
+
+{{< person name="Lauren Johnson" title="Member At Large" >}}
+
+{{< person name="Sarah Curde" title="Member At Large" >}}
 
