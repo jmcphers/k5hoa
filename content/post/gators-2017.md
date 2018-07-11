@@ -1,6 +1,7 @@
 +++
 title = "Gators Swim Team"
 date = "2017-01-25"
+expirydate = "2017-03-25"
 +++
 
 The Gators won the 2016 Division IV Championship for the Midlakes Swim League! Our swim team is comprised of children and grandchildren of Kingsgate 5 as well as our Pool Pass purchaser families and a limited number of nonresident swimmers.

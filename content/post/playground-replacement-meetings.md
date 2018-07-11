@@ -1,6 +1,7 @@
 +++
 title = "Playground Replacement Meetings"
 date = "2017-08-02"
+expirydate = "2017-09-02"
 +++
 
 Dear Kingsgate Five Homeowner,

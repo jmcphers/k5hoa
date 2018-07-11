@@ -1,6 +1,7 @@
 +++
 date = "2017-07-07"
 title = "Letter to Pool Pass Purchasers"
+expirydate = "2017-08-07"
 +++
 
 Dear Pool Pass Purchasers, 
