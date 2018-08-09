@@ -1,5 +1,6 @@
 +++
 date = "2018-08-18"
+publishdate = "2018-08-18"
 title = "Outdoor Movie Night"
 expirydate = "2018-09-01"
 +++
