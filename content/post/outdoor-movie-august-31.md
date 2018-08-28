@@ -2,7 +2,7 @@
 date = "2018-08-18"
 publishdate = "2018-08-18"
 title = "Outdoor Movie Night"
-expirydate = "2018-09-01"
+expirydate = "2018-08-27"
 +++
 
 <img src="/img/outdoor-movie.jpg" style="margin-left: auto; margin-right: auto; display: block; max-width: 100%;" />
