@@ -25,23 +25,21 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 ## Board Members
 
-{{< person img="../img/board_royal.jpg" name="Royal Hanson" title="President" email="president@kingsgate5.com" >}}
+{{< person img="../img/board/royal.jpg" name="Royal Hanson" title="President" email="president@kingsgate5.com" >}}
 
-{{< person name="Alan Nelson" title="Vice President" email="compliance@kingsgate5.com" >}}
+{{< person img="../img/board/alan.jpg" name="Alan Nelson" title="Vice President" email="compliance@kingsgate5.com" >}}
 
-{{< person img="../img/board_susan.jpg" name="Susan Schilling" title="Secretary" email="secretary@kingsgate5.com" >}}
+{{< person img="../img/board/susan.jpg" name="Susan Schilling" title="Secretary" email="secretary@kingsgate5.com" >}}
 
-{{< person img="../img/board_ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
+{{< person img="../img/board/ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
-{{< person img="../img/board_cindy.jpg" name="Cindy Klein" title="Pool Manager" email="pool@kingsgate5.com" >}}
+{{< person img="../img/board/bill.jpg" name="Bill Keating" title="Park Trustee" >}}
 
-{{< person img="../img/board_bill.jpg" name="Bill Keating" title="Park Trustee" >}}
+{{< person img="../img/board/kelly.jpg" name="Kelly McPherson" title="Recreation" email="recreation@kingsgate5.com" >}}
 
-{{< person img="../img/board_kelly.jpg" name="Kelly McPherson" title="Recreation" email="recreation@kingsgate5.com" >}}
+{{< person img="../img/board/james.jpg" name="James Weinrod" title="Gator Liaison" >}}
 
-{{< person name="James Weinrod" title="Gator Liaison" >}}
-
-{{< person name="Lauren Johnson" title="Member At Large" >}}
+{{< person name="Lauren Johnson" title="Pool Manager" >}}
 
 {{< person name="Sarah Curde" title="Member At Large" >}}
 
