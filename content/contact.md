@@ -39,7 +39,9 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board/james.jpg" name="James Weinrod" title="Gator Liaison" >}}
 
-{{< person name="Lauren Johnson" title="Pool Manager" >}}
+{{< person name="Lauren Johnson" title="Pool Manager" email="pool@kingsgate5.com" >}}
 
 {{< person name="Sarah Curde" title="Member At Large" >}}
+
+{{< person name="Dan Lund" img="../img/board/dan.jpg" title="Facilities" >}}
 
