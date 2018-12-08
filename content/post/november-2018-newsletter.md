@@ -3,7 +3,7 @@ date = "2018-11-18"
 title = "November 2018 Newsletter"
 +++ 
 
-The Kingsgate 5 HOA Neighborhood New for November is now available! You can read it online here:
+The Kingsgate 5 HOA Neighborhood News for November is now available! You can read it online here:
 
 <a href="../pdf/November2018Newsletter.pdf">
 <figure class="document-thumbnail">
