@@ -23,6 +23,8 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 **[board@kingsgate5.com](mailto:board@kingsgate5.com)**
 
+You may also reach us electronically on the [Kingsgate 5 Community Forum](https://community.kingsgate5.com/).
+
 ## Board Members
 
 {{< person img="../img/board/royal.jpg" name="Royal Hanson" title="President" email="president@kingsgate5.com" >}}
