@@ -37,7 +37,7 @@ You may also reach us electronically on the [Kingsgate 5 Community Forum](https:
 
 {{< person img="../img/board/bill.jpg" name="Bill Keating" title="Park Trustee" >}}
 
-{{< person img="../img/board/kelly.jpg" name="Kelly McPherson" title="Recreation" email="recreation@kingsgate5.com" >}}
+{{< person img="../img/board/tracy.jpg" name="Tracy Joshi" title="Member At Large" >}}
 
 {{< person img="../img/board/james.jpg" name="James Weinrod" title="Gator Liaison" >}}
 
