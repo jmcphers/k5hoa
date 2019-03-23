@@ -170,6 +170,10 @@ a i.fa-facebook {
   font-size: 15px;
 }
 
+.img-full {
+  max-width: 100%;
+}
+
 .content-thumbnail,
 .document-thumbnail img,
 .background-thumbnail img {
