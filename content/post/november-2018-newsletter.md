@@ -1,6 +1,7 @@
 +++
 date = "2018-11-18"
 title = "November 2018 Newsletter"
+expirydate = "2019-01-01"
 +++ 
 
 The Kingsgate 5 HOA Neighborhood News for November is now available! You can read it online here:
