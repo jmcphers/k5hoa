@@ -51,6 +51,8 @@ banner = "img/pool.jpg"
 
 <li><p>Anyone caught abusing the pool area will be responsible for cleanup and repairs for any damages.  Parents of minors will be notified of any infraction.</p></li>
 
+<li><p>Those who wear a disposable swim diaper in the pool are now required to have a reusable diaper cover. Covers in sizes 12m-3T will be sold at the pool for $5.00. You many find other options linked <a href="https://www.amazon.com/play-Toddler-Reusable-Absorbent-Swimsuit/dp/B0776LRCQ6/ref=sr_1_4?keywords=reusable+swim+diaper&qid=1557880591&s=gateway&sr=8-4">here</a>.
+
 <li>Special Swim Time:
 <ol type="a">
     <li>For additional safety and to accommodate adult-only swimming, all persons under the age of 18 shall be excluded from the pool during the 10 minutes preceding the start of each hour. This rule shall not apply during those times when pool use has already, by action of the Board of Trustees, been restricted to specific usage such as, but not limited to, swim team and lap swim.</li>
