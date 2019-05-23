@@ -1,7 +1,7 @@
 +++
 date = "2019-05-23"
 title = "Summer Update"
-expirydate = "2019-03-01"
+expirydate = "2020-03-01"
 +++
 
 Greetings neighbors, summer is right around the corner. We are reaching out with a few timely updates and information regarding the pool and common areas.

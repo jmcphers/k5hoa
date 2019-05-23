@@ -1,7 +1,7 @@
 +++
 date = "2019-05-23"
 title = "Pool Manager Job Description"
-expirydate = "2019-03-01"
+expirydate = "2020-03-01"
 +++
 
 The pool manager is responsible for ongoing operations and overall management of the HOA
