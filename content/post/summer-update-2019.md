@@ -8,7 +8,7 @@ Greetings neighbors, summer is right around the corner. We are reaching out with
 
 1. **Pool Info Sheet** – We have had to make a few changes; here is the [updated pool info sheet](/pdf/poolinfo-2019.pdf).
 
-2. **Pool Hours** – Due to staffing availability, the pool will open on weekdays at 4pm until June 23rd and at 12:15pm for the remainder of the summer. The pool will close at 4pm June 19th , 26th , July 5th , 12th , and 17th to host the Gator Swim Meets. You are invited to come cheer on the team from the deck.
+2. **Pool Hours** – Due to staffing availability, the pool will open on weekdays at 4pm until June 23rd and at 12:15pm for the remainder of the summer. The pool will close at 4pm June 18th, 25th, July 11th, and July 18th to host the Gator Swim Meets. You are invited to come cheer on the team from the deck.
 
 3. **Pool Check-In Process** – We have a new check in process this year. The first time you visit the pool, we ask that you have reviewed and acknowledge the [updated pool rules](/pdf/kingsgate5-poolrules.pdf) (also available at the pool) as well as to verify your emergency contact information. This process will be for homeowners and resident occupants. You will still check in with your lot number each time you visit the pool.
 
