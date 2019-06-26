@@ -64,7 +64,7 @@ banner = "img/pool.jpg"
 <p><ol type="a">
     <li>The Kingsgate Gators swim team may use the pool for practice on a daily basis, Monday through Thursday. Special arrangements may be made to start the week before the Pool opens, otherwise the practice commences on the first day that the pool is open each season. When local public schools are still in session, the swim team will be limited to four hour practice sessions on weekday evenings. During local public school summer break, the workout schedule will be from 6:00 to 9:00 am weekdays. Special arrangements may be made to practice on Saturdays mornings.  Adjustments to the above schedule must be approved by the Pool Manager.</li>
     <li>When the swim team is using the pool, qualified individuals must be on site who are CERTIFIED WATER SAFETY INSTRUCTORS and have advanced lifesaving cards from the American Red Cross. </li>
-    <li>The swim team may schedule exclusive use of the pool during normal hours for no more than six evening meets per season starting no earlier than 4:00 pm. The team may also use the pool for one daytime meet per season on either Saturday or Sunday for a Championship meet. The team shall present the Pool Manager with a request in advance to reserve the pool for swim meets.</li>
+    <li>The swim team may schedule exclusive use of the pool during normal hours for no more than six evening meets per season starting no earlier than 3:30 pm. The team may also use the pool for one daytime meet per season on either Saturday or Sunday for a Championship meet. The team shall present the Pool Manager with a request in advance to reserve the pool for swim meets.</li>
 </ol></p>
 </li>
 
