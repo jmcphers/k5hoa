@@ -37,11 +37,11 @@ You may also reach us electronically on the [Kingsgate 5 Community Forum](https:
 
 {{< person img="../img/board/bill.jpg" name="Bill Keating" title="Park Trustee" >}}
 
-{{< person img="../img/board/tracy.jpg" name="Tracy Joshi" title="Member At Large" >}}
+{{< person img="../img/board/tracy.jpg" name="Tracy Joshi" title="Recreation" >}}
 
 {{< person img="../img/board/james.jpg" name="James Weinrod" title="Gator Liaison" >}}
 
-{{< person name="Lauren Johnson" title="Pool Manager" email="pool@kingsgate5.com" >}}
+{{< person img="../img/board/sarah.jpg" name="Sarah Starr" title="Pool Manager" email="pool@kingsgate5.com" >}}
 
 {{< person name="Sarah Curde" title="Member At Large" >}}
 
