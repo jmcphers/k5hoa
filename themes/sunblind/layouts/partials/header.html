@@ -14,18 +14,10 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" />
   <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/sunblind.css" />
   <link rel="icon" href="{{ .Site.BaseURL }}/img/lion-favicon.png" />
-  <script type="text/javascript">
-    var header_images = [ 
-    {{ range .Site.Params.Headers }}
-    "{{ $.Site.BaseURL }}{{ . }}", 
-    {{ end }} 
-    ];
-  </script>
-  <script src="{{ .Site.BaseURL }}js/sunblind.js"></script>
   <meta name="description" content="{{ .Site.Params.Description }}" />
   {{ template "_internal/google_analytics.html" . }}
 </head>
 <body>
-  <div id="background" class="background-banner" style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)){{ if isset .Params "banner"}}, url({{ .Site.BaseURL }}{{ .Params.banner }}) {{ end }};"></div>
+  <div id="background" class="background-banner" style="background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.4)), {{ if isset .Params "banner"}} url({{ .Site.BaseURL }}{{ .Params.banner }}) {{ else }} url('{{ .Site.BaseURL }}img/botanic{{ add (mod now.Unix 7) 1 }}-backdrop.jpg') {{ end }};"></div>
   <div class="background-cover"></div>
   <div class="container">
