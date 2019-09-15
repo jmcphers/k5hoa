@@ -1,6 +1,7 @@
 +++
 title = "Annual Meeting, Playground Update, and Proxy"
 date = "2018-12-07T21:53:21-08:00"
+expirydate = "2019-09-01"
 +++
 
 Greetings Fellow Kingsgate Five Homeowner,
