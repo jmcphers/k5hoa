@@ -1,9 +1,9 @@
-
 <header class="section-header">
-<div class="row">
-  <div class="col-md-4 col-sm-4">
+<div class="row site-menu-container">
+  <div class="col-md-4 col-sm-4 site-menu">
     <a class="homelink" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
     <a class="facebook-left" href="{{ .Site.Params.FacebookLink }}"><i class="fa fa-facebook"></i></a>
+    <a id="hamburger-menu" class="hamburger-menu" href="#"><i class="fa fa-bars"></i></a>
   </div>
   <div class="col-md-8 col-sm-8">
     <nav id="menu" role="navigation" class="toplinks">
@@ -20,6 +20,17 @@
 </header>
 </div>
 
+<script>
+  var hamburgerMenu = document.getElementById("hamburger-menu");
+  var menu = document.getElementById("menu");
+
+  hamburgerMenu.addEventListener("click", function(evt) {
+    evt.preventDefault();
+    menu.classList.contains("show") ? menu.classList.remove("show") : menu.classList.add("show");
+    return false;
+  });
+</script>
+  
 <div class="title">
   <div class="container">
     <div class="row">
