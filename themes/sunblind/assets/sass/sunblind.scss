@@ -1,3 +1,7 @@
+$serif: "Libre Caslon Text", serif;
+$header: "Neuton", serif;
+$sans-serif: "Open Sans", sans-serif;
+
 .site-title {
   text-align: center;
   color: white;
@@ -11,7 +15,7 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 0.5em;
-  font-family: "Open Sans", sans-serif;
+  font-family: sans-serif;
 }
 
 .site-title h1, 
@@ -30,9 +34,11 @@ a.homelink {
   text-transform: uppercase;
 }
 
-article h2 {
-  font-family: "Merriweather", serif;
+.content article h2 {
+  font-family: $header;
+  font-size: 40px;
   margin-bottom: 5px;
+  font-weight: 800;
 }
 
 article h2 a {
@@ -44,23 +50,28 @@ article h2 a:hover {
   text-decoration: none;
 }
 
-article h3 {
-  font-family: "Merriweather", serif;
-  font-style: italic;
-  font-weight: 300;
+.content article h3 {
+  font-family: $sans-serif;
+  text-transform: uppercase;
   color: #808080;
   font-size: medium;
+  letter-spacing: 0.1em;
   margin-top: 0.5em;
+  font-weight: 400;
 }
 
 article {
   margin-bottom: 30px;
 }
 
+p {
+  line-height: 1.75em;
+}
+
 body {
   margin: 0px;
   padding: 0px;
-  font-family: "Open Sans", sans-serif;
+  font-family: $serif;
   font-size: 16px;
 }
 
@@ -94,13 +105,20 @@ nav li,
 nav a {
   color: white;
   text-decoration: none;
+  font-family: $sans-serif;
 }
+
+.content h3 {
+  font-family: $header;
+  font-weight: 800;
+}
+
 
 .content nav li,
 .content nav a {
    color: black;
    font-size: medium;
-   font-family: "Merriweather", serif;
+   font-family: $serif;
 }
 
 .content nav li li li {
@@ -132,24 +150,25 @@ nav.toplinks li  {
 .posts,
 .footer,
 .background-cover {
-  background-color: #f4f4f4;
+  background-color: #ffffff;
 }
 
 a.homelink {
-  font-family: "Open Sans", sans-serif;
+  font-family: $sans-serif;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 .content h2 {
-  font-family: "Merriweather", serif;
+  font-family: $header;
+  font-weight: 800;
   clear: left;
 }
 
 .title h1 {
   color: white;
   font-size: 35pt;
-  font-family: "Merriweather", serif;
+  font-family: $header;
 }
 
 div.title {
@@ -258,6 +277,7 @@ div.footer {
   padding-top: 10px;
   margin-top: 25px;
   padding-bottom: 25px;
+  font-family: $sans-serif;
 }
 
 div.footer p {
@@ -358,7 +378,7 @@ div.mail {
   margin: 0px;
   padding: 20px;
   border: 1px solid #909090;
-  font-family: "Merriweather", serif;
+  font-family: $serif;
   font-weight: 300;
   font-style: italic;
   font-size: 14px;
