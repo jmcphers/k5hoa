@@ -13,7 +13,8 @@ title = "Lot Finder"
 Enter your house number (without street name) to look up your lot number.
 </div>
 
-<form class="form-horizontal" onsubmit="">
+<!-- Bottom margin is to cover background images -->
+<form class="form-horizontal" onsubmit="" style="margin-bottom: 170px;">
 <div class="form-group">
     <label class="col-sm-3 control-label" for="house">House #</label> 
     <div class="col-sm-7">
