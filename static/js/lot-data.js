@@ -378,7 +378,11 @@ var selectLot = function() {
 
 var foundLot = function(lot, inputId) {
     document.getElementById(inputId).value = lot;
-    document.getElementById("lotfinder").style.display = "none";
+
+    var lotFinder = document.getElementById("lotfinder");
+    if (lotFinder) {
+        lotFinder.style.display = "none";
+    }
 };
 
 var lookupLot = function(inputId) {
