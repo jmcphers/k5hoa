@@ -68,12 +68,15 @@ There is a $25 fee for documents not available on this website. Contact the Trea
 {{ end }}
 
 <h2>HOA Meeting Minutes</h2>
-<ul>
-{{ range .Data.Pages }}
-    {{ if eq .Type "minutes" }}
-    <li><a href="../pdf/minutes/{{ .Date.Format "2006_01_02" }}.pdf">{{ .Date.Format "January 2, 2006" }}</a></li>
-    {{ end }}
+{{ range first 6 (where .Data.Pages "Type" "minutes") }}
+  {{ if not (isset .Params "title") }}
+    <a href="../pdf/minutes/{{ .Date.Format "2006_01_02" }}.pdf" class="meeting-thumbnail">
+        <img src="../img/k5-lion-small.png" style="width: 20px; margin-bottom: 15px;" /><br />
+        {{ .Date.Format "January 2, 2006" }}
+    </a>
+  {{ end }}
 {{ end }}
+<a href="/minutes/" style="display: inline-block; clear: both;">Meeting Minutes Archive &rarr;</a>
 
 </div>
 </div>

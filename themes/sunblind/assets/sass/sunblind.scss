@@ -193,6 +193,24 @@ a i.fa-facebook {
   max-width: 100%;
 }
 
+.meeting-thumbnail {
+  width: 150px;
+  height: 200px;
+  padding-top: 55px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: #808080;
+  display: block;
+  border: 1px solid #A0A0A0;
+  box-shadow: 3px 3px 10px #A0A0A0;
+  margin: 10px;
+  float: left;
+  background-color: #f5f5f5;
+  margin-bottom: 20px;
+}
+
 .content-thumbnail,
 .document-thumbnail img,
 .background-thumbnail img {
@@ -211,6 +229,7 @@ a i.fa-facebook {
   display: inline-block; 
   margin-right: 30px;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .document-thumbnail img,
