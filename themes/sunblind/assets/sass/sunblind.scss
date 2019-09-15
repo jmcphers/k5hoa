@@ -388,6 +388,17 @@ div.mail {
    padding: 5px;
 }
 
+#lot[readonly] {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  font-size: 40px;
+  font-weight: bold;
+}
+
 @media (max-width: 768px) {
   .content nav li {
     display: inline-block;
