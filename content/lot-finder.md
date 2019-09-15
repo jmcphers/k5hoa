@@ -26,7 +26,7 @@ Enter your house number (without street name) to look up your lot number.
 <div class="form-group"> 
     <label class="col-sm-3 control-label" for="lot">Lot #</label>
     <div class="col-sm-7">
-        <input class="form-control" readonly type="text" style="width: 25%;" id="lot" />
+        <input class="form-control" readonly type="text" id="lot" />
     </div>
 </div>
 </form>
