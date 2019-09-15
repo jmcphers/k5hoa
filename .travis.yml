@@ -1,3 +1,6 @@
+# use newer ubuntu
+dist: xenial
+
 # decrypt deployment private key
 before_install:
   - openssl aes-256-cbc -K $encrypted_3d83f42c7c33_key -iv $encrypted_3d83f42c7c33_iv -in kingsgate5-travis.enc -out kingsgate5-travis -d
@@ -5,8 +8,8 @@ before_install:
 
 # install hugo
 install:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.54.0/hugo_0.54.0_Linux-64bit.tar.gz
-  - tar xzvf hugo_0.54.0_Linux-64bit.tar.gz
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.57.2/hugo_extended_0.57.2_Linux-64bit.tar.gz
+  - tar xzvf hugo_extended_0.57.2_Linux-64bit.tar.gz
 
 # build the site
 script: 
