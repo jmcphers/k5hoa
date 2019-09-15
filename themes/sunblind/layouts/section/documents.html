@@ -41,16 +41,16 @@ There is a $25 fee for documents not available on this website. Contact the Trea
     {{ end }}
 {{ end }}
 
-<h2>Park Renovation</h2>
-
-<a href="../pdf/playground/renovation-final.pdf">
-    <figure class="document-thumbnail">
-        <img src="../img/playground/renovation-final.png" />
-        <figcaption>
-            <h4>Renovation Plan</h4>
-        </figcaption>
-    </figure>
-</a>
+<h2>HOA Meeting Minutes</h2>
+{{ range first 6 (where .Data.Pages "Type" "minutes") }}
+  {{ if not (isset .Params "title") }}
+    <a href="../pdf/minutes/{{ .Date.Format "2006_01_02" }}.pdf" class="meeting-thumbnail">
+        <img src="../img/k5-lion-small.png" style="width: 20px; margin-bottom: 15px;" /><br />
+        {{ .Date.Format "January 2, 2006" }}
+    </a>
+  {{ end }}
+{{ end }}
+<a href="/minutes/" style="display: inline-block; clear: both;">Meeting Minutes Archive &rarr;</a>
 
 <h2>Legal Documents</h2>
 
@@ -67,16 +67,17 @@ There is a $25 fee for documents not available on this website. Contact the Trea
     {{ end }}
 {{ end }}
 
-<h2>HOA Meeting Minutes</h2>
-{{ range first 6 (where .Data.Pages "Type" "minutes") }}
-  {{ if not (isset .Params "title") }}
-    <a href="../pdf/minutes/{{ .Date.Format "2006_01_02" }}.pdf" class="meeting-thumbnail">
-        <img src="../img/k5-lion-small.png" style="width: 20px; margin-bottom: 15px;" /><br />
-        {{ .Date.Format "January 2, 2006" }}
-    </a>
-  {{ end }}
-{{ end }}
-<a href="/minutes/" style="display: inline-block; clear: both;">Meeting Minutes Archive &rarr;</a>
+
+<h2>Park Renovation</h2>
+
+<a href="../pdf/playground/renovation-final.pdf">
+    <figure class="document-thumbnail">
+        <img src="../img/playground/renovation-final.png" />
+        <figcaption>
+            <h4>Renovation Plan</h4>
+        </figcaption>
+    </figure>
+</a>
 
 </div>
 </div>
