@@ -21,13 +21,15 @@
   <div class="posts col-md-8 col-sm-8">
     {{ partial "poolupdate.html" . }}
 
-    {{ range .Data.Pages }}
+    {{ range .Site.Pages }}
       {{ if eq .Type "post" }}
-      <article>
-        <h2>{{ .Title }}</h2>
-        <h3>Posted {{ .Date.Format "January 2, 2006" }}</h3>
-        <p>{{ .Content }}</p>
-      </article>
+        {{ if isset .Params "title" }}
+          <article>
+            <h2>{{ .Title }}</h2>
+            <h3>Posted {{ .Date.Format "January 2, 2006" }}</h3>
+            <p>{{ .Content }}</p>
+          </article>
+        {{ end }}
       {{ end }}
     {{ end }}
 
