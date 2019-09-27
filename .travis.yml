@@ -13,6 +13,7 @@ install:
 
 # build the site
 script: 
+  - ./refresh-calendar.sh
   - ./hugo --theme=sunblind
 
 # deploy it!

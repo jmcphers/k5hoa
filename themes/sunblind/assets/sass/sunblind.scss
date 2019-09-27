@@ -23,6 +23,7 @@ $sans-serif: "Open Sans", sans-serif;
     font-size: medium;
     letter-spacing: 0.1em;
     text-transform: uppercase;
+    font-family: $sans-serif;
   }
 }
 
@@ -79,8 +80,18 @@ a.homelink {
   }
 }
 
-article h2 a:hover {
-  text-decoration: none;
+.event {
+  margin-bottom: 20px;
+
+  .summary {
+    font-weight: bold;
+    font-size: medium;
+  }
+
+  .time {
+    font-family: $sans-serif;
+    font-size: small;
+  }
 }
 
 article {
@@ -169,6 +180,7 @@ a.homelink {
   font-family: $header;
   font-weight: 800;
   clear: left;
+  margin-bottom: 30px;
 }
 
 .title h1 {
@@ -199,6 +211,24 @@ a i.fa-facebook {
   max-width: 100%;
 }
 
+.meeting-thumbnail {
+  width: 150px;
+  height: 200px;
+  padding-top: 55px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: #808080;
+  display: block;
+  border: 1px solid #A0A0A0;
+  box-shadow: 3px 3px 10px #A0A0A0;
+  float: left;
+  background-color: #f5f5f5;
+  margin-bottom: 40px;
+  margin-right: 40px;
+}
+
 .content-thumbnail,
 .document-thumbnail img,
 .background-thumbnail img {
@@ -217,6 +247,7 @@ a i.fa-facebook {
   display: inline-block; 
   margin-right: 30px;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .document-thumbnail img,
