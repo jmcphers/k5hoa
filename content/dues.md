@@ -25,7 +25,7 @@ The HOA does not offer refunds; all transactions are final.
 
 ## Pay Dues Online
 
-Fill out the form below to pay your dues online with PayPal. You may choose to pay either for the current quarter or for the entire year. A convenience fee of 3% has been included in the online rate. If you need to pay a different amount (for instance, if you owe late fees or finance charges, or wish to make a partial payment), you will need to pay by check.
+Fill out the form below to pay your dues online with PayPal. A convenience fee of 3% has been included in the online rate. If you need to pay a different amount (for instance, if you owe late fees or finance charges, or wish to make a partial payment), you will need to pay by check.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" onSubmit="return checkForm();" target="_top">
 
