@@ -27,21 +27,21 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board/royal.jpg" name="Royal Hanson" title="President" email="president@kingsgate5.com" >}}
 
-{{< person img="../img/board/alan.jpg" name="Alan Nelson" title="Vice President" email="compliance@kingsgate5.com" >}}
+{{< person name="Jeff Campeau" title="Vice President" >}}
+o
+{{< person img="../img/board/ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
 {{< person img="../img/board/susan.jpg" name="Susan Schilling" title="Secretary" email="secretary@kingsgate5.com" >}}
 
-{{< person img="../img/board/ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
+{{< person img="../img/board/james.jpg" name="James Weinrod" title="Compliance" >}}
 
 {{< person img="../img/board/bill.jpg" name="Bill Keating" title="Park Trustee" >}}
 
-{{< person img="../img/board/tracy.jpg" name="Tracy Joshi" title="Recreation" >}}
+{{< person img="../img/board/sarah.jpg" name="Sarah Starr" title="Pool Trustee" email="pool@kingsgate5.com" >}}
 
-{{< person img="../img/board/james.jpg" name="James Weinrod" title="Gator Liaison" >}}
+{{< person name="Sarah Curde" title="Recreation" >}}
 
-{{< person img="../img/board/sarah.jpg" name="Sarah Starr" title="Pool Manager" email="pool@kingsgate5.com" >}}
-
-{{< person name="Sarah Curde" title="Member At Large" >}}
+{{< person img="../img/board/alan.jpg" name="Alan Nelson" title="ByLaws" email="compliance@kingsgate5.com" >}}
 
 {{< person name="Dan Lund" img="../img/board/dan.jpg" title="Facilities" >}}
 
