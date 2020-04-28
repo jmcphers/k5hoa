@@ -7,7 +7,7 @@ Hello Neighbors! We on the board hope you and your families are doing well and s
 
 **Neighborhood Social Distance Scavenger Hunt!**
 
-Take the following list and see what you can find. If you find at least 10 items, you can email the recreation email and submit the addresses you found them at or pictures that you took and win one prize per child that completes the hunt that will be dropped off with no contact :) 
+Take the following list and see what you can find. If you find at least 10 items, you can email <recreation@kingsgate5.com> and submit the addresses you found them at or pictures that you took and win one prize per child that completes the hunt that will be dropped off with no contact :) 
 
 1. How many parking spots are at the upper parking lot for the pool?
 2. Find a house with a rabbit in the window 
