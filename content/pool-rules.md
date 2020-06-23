@@ -91,7 +91,7 @@ banner = "img/pool.jpg"
     <li>The sponsoring homeowner or permit holder will be charged a fee for all pool parties, at a schedule set by the Board of Trustees. A minimum of two lifeguards is required for all pool parties not exceeding 30 guests. Parties over 30 guests require 3 guards.</li>
     <li>All pool parties must end no later than 10:00 pm. Noise at the parties must be kept at a level consistent with the consent and convenience of adjacent homeowners. The host and/or chaperones present are responsible for noise level control. All noise level decisions by the lifeguard in charge are final.</li>
     <li>Food and non-alcoholic beverages are allowed for pool parties, with the Pool Manager's approval. The host is responsible for all clean-up to the pool area. The host is also responsible for damages resulting from the party.</li>
-</li>
+</ol></p>
 
 <li>Rule Enforcement:</li>
 <p><ol type="a">
