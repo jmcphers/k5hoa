@@ -9,7 +9,7 @@ banner = "img/pool.jpg"
 <ol>
 <li><p>Admittance to and use of the pool is restricted to members in good standing of the Kingsgate Highlands Division Five Homeowners Association and purchasers of valid Pool Use Permits. Members in good standing are those who are not delinquent in Kingsgate V Homeowners Association dues/assessments or Pool User Permit Fees.</p></li>
 
-<li><p>Certified lifeguards must be on duty during all regular pool hours. A minimum of two guards must be in attendance for every 45 people swimming in the pool. Three guards must be on duty for swimming attendance between 45 and 100 people. There shall be no more than 100 swimmers in the pool at any one time.</p></li>
+<li><p>Certified lifeguards must be on duty during all regular pool hours. A minimum of two guards must be in attendance for every 30 people swimming in the pool. Three guards must be on duty for swimming attendance between 30 and 100 people. There shall be no more than 100 swimmers in the pool at any one time.</p></li>
 
 <li><p>All persons entering the pool, including guests, must register at the front desk and furnish their name, lot number, Pool Use Permit number and/or address to the attendant on duty.</p></li>
 
@@ -35,11 +35,11 @@ banner = "img/pool.jpg"
 
 <li><p>No chewing gum, alcoholic beverages, smoking, vaping, or controlled substances are allowed in the pool area.</p></li>
 
-<li><p>Swim fins, snorkels, face masks, and inflatable pool toys are NOT allowed during regular pool hours.  This rule may be waved for special events and pool parties. Lifejackets or similar artificial swimming aids are allowed in the pool when accompanied by a parent.</p></li>
+<li><p>Swim fins, snorkels, face masks, and inflatable pool toys are NOT allowed during regular pool hours.  This rule may be waived for special events and pool parties. Lifejackets or similar artificial swimming aids are allowed in the pool when accompanied by a parent.</p></li>
 
 <li><p>Running is not allowed on the pool decks, walkways, or in the pool house.</p></li>
 
-<li><p>No one under the age of 7 will be allowed in the deep end of the pool without an adult 18 years or older unless they are diving or participating in lap swim. All other young swimmers must first pass the swim test before being allowed in the deep end.</p></li>
+<li><p>No one under the age of 9 will be allowed in the deep end of the pool without an adult 18 years or older unless they are diving or participating in lap swim. All other young swimmers must first pass the swim test before being allowed in the deep end.</p></li>
 
 <li><p>Lifeguards shall have the right to restrict swimmers of limited ability to the shallow water.</p></li>
 
@@ -51,27 +51,23 @@ banner = "img/pool.jpg"
 
 <li><p>Anyone caught abusing the pool area will be responsible for cleanup and repairs for any damages.  Parents of minors will be notified of any infraction.</p></li>
 
-<li><p>Those who wear a disposable swim diaper in the pool are now required to have a reusable diaper cover. Covers in sizes 12m-3T will be sold at the pool for $5.00. You many find other options linked <a href="https://www.amazon.com/play-Toddler-Reusable-Absorbent-Swimsuit/dp/B0776LRCQ6/ref=sr_1_4?keywords=reusable+swim+diaper&qid=1557880591&s=gateway&sr=8-4">here</a>.
-
 <li>Special Swim Time:
 <ol type="a">
     <li>For additional safety and to accommodate adult-only swimming, all persons under the age of 18 shall be excluded from the pool during the 10 minutes preceding the start of each hour. This rule shall not apply during those times when pool use has already, by action of the Board of Trustees, been restricted to specific usage such as, but not limited to, swim team and lap swim.</li>
     <li>No showers during the ten minute adult swim each hour shall be allowed for those individuals under 18 years of age who are not leaving the pool area.</li>
-    <li>The hour period on weekday evenings from 6:00 to 7:00 pm is designated as lap swimming for individuals 18 years of age and older. A minimum of one lane will be available at all times during that period.</li>
 </ol>
 
 <li>Swim Team:
 <p><ol type="a">
     <li>The Kingsgate Gators swim team may use the pool for practice on a daily basis, Monday through Thursday. Special arrangements may be made to start the week before the Pool opens, otherwise the practice commences on the first day that the pool is open each season. When local public schools are still in session, the swim team will be limited to four hour practice sessions on weekday evenings. During local public school summer break, the workout schedule will be from 6:00 to 9:00 am weekdays. Special arrangements may be made to practice on Saturdays mornings.  Adjustments to the above schedule must be approved by the Pool Manager.</li>
     <li>When the swim team is using the pool, qualified individuals must be on site who are CERTIFIED WATER SAFETY INSTRUCTORS and have advanced lifesaving cards from the American Red Cross. </li>
-    <li>The swim team may schedule exclusive use of the pool during normal hours for no more than six evening meets per season starting no earlier than 3:30 pm. The team may also use the pool for one daytime meet per season on either Saturday or Sunday for a Championship meet. The team shall present the Pool Manager with a request in advance to reserve the pool for swim meets.</li>
+    <li>The swim team may schedule exclusive use of the pool during normal hours for no more than six evening meets per season starting no earlier than 4:00 pm. The team may also use the pool for one daytime meet per season on either Saturday or Sunday for a Championship meet. The team shall present the Pool Manager with a request in advance to reserve the pool for swim meets.</li>
 </ol></p>
 </li>
 
 <li>Guests are bound by all regular rules plus those in this section.
 <ol type="a">
-    <li>Each lot/permit holder is limited to four guests at any one time during the normal operating hours</li>
-    of the pool.
+    <li>Each lot/permit holder is limited to four guests at any one time during the normal operating hours of the pool.</li>
     <li>There will be a guest fee for each guest. An exception is made for those homeowners who pay their dues in full at the beginning of each calendar year. Guest fees are set by the Board of Trustees each year at the October Budget Meeting. Homeowners and permit holders will be notified of the fee through the newsletter. Pool Pass Purchasers are excluded from free guests.</li>
     <li>Guest fees shall not be imposed on visiting swim team members participating against the Kingsgate Gators swim team at a meet.</li>
     <li>All guests must be accompanied by a member or permit holder at all times. Guest names and addresses shall be recorded along with time and date of registration in the log book at the registration desk.</li>
@@ -82,8 +78,7 @@ banner = "img/pool.jpg"
 
 <li>Swim lessons:
 <ol type="a">
-    <li>The pool shall be reserved for swimming lessons every summer for four, two-week morning</li>
-        sessions from 9:30 to 11:30 am Monday through Friday.
+    <li>The pool shall be reserved for swimming lessons every summer for four, two-week morning sessions from 9:00 to 11:30 am Monday through Friday.
     <li>The lessons are open to all community members.</li>
     <li>Each participant shall pay the pool a fee according to a schedule stipulated by the Board of Trustees each year at the October Budget Meeting.</li>
 </ol>
@@ -93,19 +88,16 @@ banner = "img/pool.jpg"
 <p><ol type="a">
     <li>Private parties may be scheduled with the Pool Manager, and held when the pool is not otherwise in use. All such parties shall be subject to all provisions of these rules and regulations except as noted otherwise.</li>
     <li>At least one Kingsgate V Homeowner or Pool Use Permit holder, in addition to the appropriate number of lifeguards shall be present at all pool parties.</li>
-    <li>The sponsoring homeowner or permit holder will be charged a fee for all pool parties, at a schedule set by the Board of Trustees. A minimum of two lifeguards is required for all pool parties not exceeding 40 guests. Parties over 40 guests require 3 guards.</li>
+    <li>The sponsoring homeowner or permit holder will be charged a fee for all pool parties, at a schedule set by the Board of Trustees. A minimum of two lifeguards is required for all pool parties not exceeding 30 guests. Parties over 30 guests require 3 guards.</li>
     <li>All pool parties must end no later than 10:00 pm. Noise at the parties must be kept at a level consistent with the consent and convenience of adjacent homeowners. The host and/or chaperones present are responsible for noise level control. All noise level decisions by the lifeguard in charge are final.</li>
-    <li>Food and non-alcoholic beverages are allowed for pool parties, with the Pool Manager's approval.</li>
-</ol>
-The host is responsible for all clean-up to the pool area. The host is also responsible for damages resulting from the party.</p>
+    <li>Food and non-alcoholic beverages are allowed for pool parties, with the Pool Manager's approval. The host is responsible for all clean-up to the pool area. The host is also responsible for damages resulting from the party.</li>
 </li>
 
 <li>Rule Enforcement:</li>
 <p><ol type="a">
     <li>The foregoing rules will be enforced by the Pool Manager, lifeguards, and office staff on duty.</li>
     <li>They have the right to restrict activities which may be unsafe or create an excessive disturbance.</li>
-    <li>Disciplinary procedures are taken at the discretion of the lifeguard, the Pool Manager, or office</li>
-        staff depending on the nature and severity of the infraction.
+    <li>Disciplinary procedures are taken at the discretion of the lifeguard, the Pool Manager, or office staff depending on the nature and severity of the infraction.</li>
     <li>Parents will be notified when a child's infraction results in disciplinary action.</li>
     <li>To ensure everyone's safety and enjoyment, the following disciplinary procedures may be taken to enforce the pool rules:</li>
     <ul>
