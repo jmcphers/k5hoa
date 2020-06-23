@@ -9,4 +9,5 @@ fields:
   name: title
   label: title
 pages:
+- content/post/annual-bbq-postponed.md
 - content/post/board-meetings-online.md
