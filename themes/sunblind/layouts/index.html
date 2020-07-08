@@ -44,6 +44,7 @@
   <div class="col-md-4 col-sm-4">
     <h3>Events</h2>
     {{ range .Site.Data.calendar }}
+       {{ if .items }}
        {{ $events := where .items "start.dateTime" "!=" nil}}
        {{ range last 5 (sort $events "start.dateTime" "asc") }}
          <div class="event">
@@ -52,6 +53,7 @@
              <div class="time"><i class="fa fa-calendar-o" aria-hidden="true"></i> {{ dateFormat "1/2/2006 3:04pm" .start.dateTime }}</div>
            {{ end }} 
          </div>
+       {{ end }}
        {{ end }}
     {{ end }}
     <a href="/calendar/">Full Calendar &rarr;</a>
