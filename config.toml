@@ -13,3 +13,9 @@ googleAnalytics = "UA-75449743-1"
   Description = "Website for the Kingsgate 5 Homeowner's Association, with calendar of events, pool/swim team information, and other community information and links."
 
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
