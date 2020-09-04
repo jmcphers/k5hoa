@@ -61,7 +61,7 @@ understanding on this matter!
 *Please remember to use a mask in public.* The current wisdom is that most
 transmission is airborne, so masks reduce the chances of catching COVID-19,
 and greatly reduce the risk of transmitting the virus if you have it! For more
-information on this issue visit: <https://www.kirlandwa.gov/playitsafe>
+information on this issue visit: <https://www.kirklandwa.gov/playitsafe>
 
 &nbsp;
 
