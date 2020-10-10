@@ -1,5 +1,5 @@
 +++
-date = 2020-10-10"
+date = "2020-10-10"
 title = "Blood Donation at Chateau Lill"
 +++
 
