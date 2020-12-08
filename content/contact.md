@@ -43,5 +43,5 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board/alan.jpg" name="Alan Nelson" title="ByLaws" >}}
 
-{{< person name="Dan Lund" img="../img/board/dan.jpg" title="Facilities" >}}
+{{< person name="Dan Lund" img="../img/board/dan-hairless.jpg" title="Facilities" >}}
 
