@@ -19,7 +19,7 @@ function checkForm() {
 }
 </script>
 
-The Kingsgate Five HOA dues for 2020 are $456 per year. Payment is due in full by April 30, 2020. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
+The Kingsgate Five HOA dues for 2020 are $468 per year. Payment is due in full by March 31, 2021. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
 
 The HOA does not offer refunds; all transactions are final.
 
@@ -33,10 +33,10 @@ Fill out the form below to pay your dues online with PayPal. A convenience fee o
 <input type="hidden" name="hosted_button_id" value="GAYK35K7PBMTS">
 <input type="hidden" name="on0" value="2020 HOA Dues">
 
-<strong>2020 HOA Dues</strong><br>
+<strong>2021 HOA Dues</strong><br>
 
 <select name="os0">
-  <option value="Annual">Annual $469.68 USD</option>
+  <option value="Annual">Annual $482.04 USD</option>
 </select> 
 <br />
 <br />
