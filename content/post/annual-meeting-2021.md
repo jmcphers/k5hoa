@@ -10,13 +10,13 @@ This year has been a really different and strange time for all of us. Covid-19 l
 The 2021 annual meeting will be held via **Zoom** on **Monday, January 25, 2021 from 7:00 – 9:00pm**
 
 <blockquote>
-    Topic: K5 HOA Annual Meeting<br/>
-    Time: Jan 25, 2021 06:30 PM Pacific Time (US and Canada)
+Topic: K5 HOA Annual Meeting<br/>
+Time: Jan 25, 2021 06:30 PM Pacific Time (US and Canada)
 
-    <a href="https://us02web.zoom.us/j/87629435014?pwd=WGxyN1d1eTJjQ0FDVlRoVjRWaGxHZz09">Join Zoom Meeting</a>
+<a href="https://us02web.zoom.us/j/87629435014?pwd=WGxyN1d1eTJjQ0FDVlRoVjRWaGxHZz09">Join Zoom Meeting</a>
 
-    Meeting ID: 876 2943 5014<br/>
-    Passcode: 481229
+Meeting ID: 876 2943 5014<br/>
+Passcode: 481229
 </blockquote>
 
 The meeting will open at 6:30pm to allow time to register and assure a quorum prior to the 7pm meeting start. You can download Zoom at <https://zoom.us> Click the resource tab and select download. There is a free version that you can use.
@@ -39,7 +39,7 @@ Highlights of this year
 - Approval of grant to purchase AED for our pool.
 - Pool open on limited basis during Covid-19 restrictions.
 
-I look forward to seeing many of you at the annual meeting. If you are unable to attend the Zoom call, please submit a [proxy ballot](pdf/kingsgate5-proxy-2021.pdf)) to appoint an individual to vote on your behalf. Make sure your proxy is mailed or placed in the drop box at the pool by January 18th to make sure it can be processed before the meeting. 
+I look forward to seeing many of you at the annual meeting. If you are unable to attend the Zoom call, please submit a [proxy ballot](pdf/kingsgate5-proxy-2021.pdf) to appoint an individual to vote on your behalf. Make sure your proxy is mailed or placed in the drop box at the pool by January 18th to make sure it can be processed before the meeting. 
 
 Check the website for updates regarding this information and for when the drop box will be available.
 
