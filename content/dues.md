@@ -30,8 +30,8 @@ Fill out the form below to pay your dues online with PayPal. A convenience fee o
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" onSubmit="return checkForm();" target="_top">
 
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="GAYK35K7PBMTS">
-<input type="hidden" name="on0" value="2020 HOA Dues">
+<input type="hidden" name="hosted_button_id" value="TSZQS6VXALQNS">
+<input type="hidden" name="on0" value="2021 HOA Dues">
 
 <strong>2021 HOA Dues</strong><br>
 
