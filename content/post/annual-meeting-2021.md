@@ -7,17 +7,7 @@ Greetings Fellow Kingsgate Five Homeowner,
 
 This year has been a really different and strange time for all of us. Covid-19 limited our members' enjoyment of the park and pool. The annual Easter Egg Hunt and Association BBQ had to be cancelled. We all hope to be able to resume these events next year. As always, important information regarding dates, news, and activities for the association can be found here on our website. 
 
-The 2021 annual meeting will be held via **Zoom** on **Monday, January 25, 2021 from 7:00 – 9:00pm**
-
-<blockquote>
-Topic: K5 HOA Annual Meeting<br/>
-Time: Jan 25, 2021 06:30 PM Pacific Time (US and Canada)
-
-<a href="https://us02web.zoom.us/j/87629435014?pwd=WGxyN1d1eTJjQ0FDVlRoVjRWaGxHZz09">Join Zoom Meeting</a>
-
-Meeting ID: 876 2943 5014<br/>
-Passcode: 481229
-</blockquote>
+The 2021 annual meeting will be held via **Zoom** on **Monday, January 25, 2021 from 7:00 – 9:00pm**. Please refer to the mailed letter for the link, or email <board@kingsgate5.com> and request an invitation.
 
 The meeting will open at 6:30pm to allow time to register and assure a quorum prior to the 7pm meeting start. You can download Zoom at <https://zoom.us> Click the resource tab and select download. There is a free version that you can use.
 
