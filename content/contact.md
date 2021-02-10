@@ -25,9 +25,7 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 ## Board Members
 
-{{< person img="../img/board/royal.jpg" name="Royal Hanson" title="President" email="president@kingsgate5.com" >}}
-
-{{< person img="../img/board/jeff.jpg" name="Jeff Campeau" title="Vice President" >}}
+{{< person img="../img/board/jeff.jpg" name="Jeff Campeau" title="President" email="president@kingsgate5.com" >}}
 
 {{< person img="../img/board/ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
