@@ -1,7 +1,7 @@
 +++
 title = "Gators 2021 Registration Open"
-date = "2021-04-23"
-expirydate = "2020-07-16"
+date = "2021-04-24"
+expirydate = "2021-07-16"
 +++
 
 The Kingsgate Gators 2021 registration is open! Register at this link:
