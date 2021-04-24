@@ -1,6 +1,6 @@
 +++
 title = "Gators 2021 Registration Open"
-date = "2021-04-24"
+date = "2021-04-23"
 expirydate = "2020-07-16"
 +++
 
