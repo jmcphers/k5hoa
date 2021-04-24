@@ -34,4 +34,4 @@ Thursday, **5/13/2021**
 
 * Tentative date for virtual team meeting
 
-
+Please send any registration questions to <registrar.kgg@gmail.com>.
