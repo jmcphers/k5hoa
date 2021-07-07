@@ -27,6 +27,8 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board/jeff.jpg" name="Jeff Campeau" title="President" email="president@kingsgate5.com" >}}
 
+{{< person name="Sarah Curde" title="Vice President" >}}
+
 {{< person img="../img/board/ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
 {{< person img="../img/board/susan.jpg" name="Susan Schilling" title="Secretary" email="secretary@kingsgate5.com" >}}
@@ -37,12 +39,10 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board/sarah.jpg" name="Sarah Starr" title="Pool Trustee" email="pool@kingsgate5.com" >}}
 
-{{< person name="Sarah Curde" title="Recreation" >}}
-
 {{< person img="../img/board/alan.jpg" name="Alan Nelson" title="ByLaws" >}}
 
 {{< person name="Dan Lund" img="../img/board/dan-hairless.jpg" title="Facilities" >}}
 
-{{< person img="../img/board/carissa.jpg" name="Carissa Haws" title="At Large" >}}
+{{< person img="../img/board/carissa.jpg" name="Carissa Haws" title="Recreation" >}}
 
 
