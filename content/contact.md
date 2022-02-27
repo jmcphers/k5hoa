@@ -31,7 +31,7 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board/ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
-{{< person name="Essex Speckhals" title="At Large" >}}
+{{< person name="Essex Speckhals" title="At Large" img="../img/board/essex.jpeg" >}}
 
 {{< person img="../img/board/james.jpg" name="James Weinrod" title="Secretary" email="secretary@kingsgate5.com" >}}
 
