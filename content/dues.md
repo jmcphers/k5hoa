@@ -30,13 +30,14 @@ Fill out the form below to pay your dues online with PayPal. A convenience fee o
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" onSubmit="return checkForm();" target="_top">
 
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="5EWNBXM3HHJQ2">
+<input type="hidden" name="hosted_button_id" value="A732KFP2JLFG8">
 <input type="hidden" name="on0" value="2022 HOA Dues">
 
 <strong>2022 HOA Dues</strong><br>
 
 <select name="os0">
   <option value="Annual">Annual $509.22 USD</option>
+  <option value="Late Fee">Late Fee $25.00 USD</option>
 </select> 
 <br />
 <br />
