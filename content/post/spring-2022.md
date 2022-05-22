@@ -4,9 +4,13 @@ title = "Spring 2022 Newsletter"
 expirydate = "2023-05-20"
 +++
 
+<br />
+
 ### Pool News
 
 Happy 2022 pool season! The pool will be opening from 4-8pm on Friday, May 27th. Join us for a free popsicle. We are excited to see many familiar and some new faces, as we introduce a few new lifeguards, and many returning. Come and play on the new ping pong table and relax with a treat from concessions. Pool questions can be directed to <pool@kingsgate5.com>. Updates/changes will be posted on the [pool](/pool/) section of the website.
+
+<br />
 
 ### Open Position – Facilities Manager 
 
@@ -21,14 +25,20 @@ The Kingsgate V Homeowner’s Association is looking for a year-round part time 
 * Be on call in the event of a pool emergency including pump room equipment failure
 
 To apply, email resume and cover letter to: <board@kingsgate5.com>
+
+<br />
  
 ### Open Position – Board Member at Large 
 
 The K5 HOA Board of Trustees has an open position for a member at large. This is a volunteer position. The board meets monthly to conduct association business. The board’s primary duty is to preserve the integrity of the neighborhood by managing the following: Provide Financial Management & Neighborhood Planning; Common Area Maintenance and Repairs (Pool, Park, and Entrances); Provide Architectural Change/Improvement Guidance; and Oversee the Declaration of Covenants and Rules Enforcement. To apply, email <board@kingsgate5.com>.
  
+<br />
+ 
 ### Recap – Easter Egg Hunt 
 
 To all the Kingsgate 5 homeowners who came out and participated in the 2022 Easter Egg Hunt, we would love to say THANK YOU! Your smiles, enthusiasm and motivation to hunt down every last egg was so much fun to witness. Roughly 1100 eggs were distributed along with 42 Golden Tickets collected in exchange for a selection from the prize table. Kids and adults alike enjoyed delicious donut holes provided by Factory Donuts along with coffee from Starbucks. Hopefully all who wanted got their chance at saying hello to our favorite purple Easter Bunny. Thank you to everyone who made this such a special day and we can’t wait to see you out there again next year! 
+ 
+<br />
  
 ### Update – Sidewalk Maintenance 
 
