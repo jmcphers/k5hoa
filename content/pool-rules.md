@@ -9,7 +9,7 @@ banner = "img/pool.jpg"
 <ol>
 <li><p>Admittance to and use of the pool is restricted to members in good standing of the Kingsgate Highlands Division Five Homeowners Association and purchasers of valid Pool Use Permits. Members in good standing are those who are not delinquent in Kingsgate V Homeowners Association dues/assessments or Pool User Permit Fees.</p></li>
 
-<li><p>Certified lifeguards must be on duty during all regular pool hours. A minimum of two guards must be in attendance for every 30 people swimming in the pool. Three guards must be on duty for swimming attendance between 30 and 100 people. There shall be no more than 100 swimmers in the pool at any one time.</p></li>
+<li><p>Certified lifeguards must be on duty during all regular pool hours. A minimum of two guards must be in attendance for every 25 people swimming in the pool. Three guards must be on duty for swimming attendance between 25 and 100 people. There shall be no more than 100 swimmers in the pool at any one time.</p></li>
 
 <li><p>All persons entering the pool, including guests, must register at the front desk and furnish their name, lot number, Pool Use Permit number and/or address to the attendant on duty.</p></li>
 
@@ -67,8 +67,8 @@ banner = "img/pool.jpg"
 
 <li>Guests are bound by all regular rules plus those in this section.
 <ol type="a">
-    <li>Each lot/permit holder is limited to four guests at any one time during the normal operating hours of the pool.</li>
-    <li>There will be a guest fee for each guest. An exception is made for those homeowners who pay their dues in full at the beginning of each calendar year. Guest fees are set by the Board of Trustees each year at the October Budget Meeting. Homeowners and permit holders will be notified of the fee through the newsletter. Pool Pass Purchasers are excluded from free guests.</li>
+    <li>Each lot/permit holder is limited to **four** guests at any one time during the normal operating hours of the pool.</li>
+    <li>There will be a guest fee of $5 for each guest. An exception is made for those homeowners who pay their dues in full at the beginning of each calendar year. Guest fees are set by the Board of Trustees each year at the October Budget Meeting. Homeowners and permit holders will be notified of the fee through the newsletter. Pool Pass Purchasers are excluded from free guests.</li>
     <li>Guest fees shall not be imposed on visiting swim team members participating against the Kingsgate Gators swim team at a meet.</li>
     <li>All guests must be accompanied by a member or permit holder at all times. Guest names and addresses shall be recorded along with time and date of registration in the log book at the registration desk.</li>
     <li>Homeowner house guests who have stayed 72 hours or more will be considered family members if they have been registered as such with the pool management. House guests, however, may not bring guests to the pool. Pool Pass Purchasers are excluded from this.</li>
@@ -78,7 +78,7 @@ banner = "img/pool.jpg"
 
 <li>Swim lessons:
 <ol type="a">
-    <li>The pool shall be reserved for swimming lessons every summer for four, two-week morning sessions from 9:00 to 11:30 am Monday through Friday.
+    <li>The pool shall be reserved for swimming lessons every summer for four, two-week morning sessions from 9:45 to 12pm Monday through Friday.
     <li>The lessons are open to all community members.</li>
     <li>Each participant shall pay the pool a fee according to a schedule stipulated by the Board of Trustees each year at the October Budget Meeting.</li>
 </ol>
@@ -88,7 +88,7 @@ banner = "img/pool.jpg"
 <p><ol type="a">
     <li>Private parties may be scheduled with the Pool Manager, and held when the pool is not otherwise in use. All such parties shall be subject to all provisions of these rules and regulations except as noted otherwise.</li>
     <li>At least one Kingsgate V Homeowner or Pool Use Permit holder, in addition to the appropriate number of lifeguards shall be present at all pool parties.</li>
-    <li>The sponsoring homeowner or permit holder will be charged a fee for all pool parties, at a schedule set by the Board of Trustees. A minimum of two lifeguards is required for all pool parties not exceeding 30 guests. Parties over 30 guests require 3 guards.</li>
+    <li>The sponsoring homeowner or permit holder will be charged a fee for all pool parties, at a schedule set by the Board of Trustees. A minimum of two lifeguards is required for all pool parties not exceeding 25 guests. Parties over 25 guests require 3 guards.</li>
     <li>All pool parties must end no later than 10:00 pm. Noise at the parties must be kept at a level consistent with the consent and convenience of adjacent homeowners. The host and/or chaperones present are responsible for noise level control. All noise level decisions by the lifeguard in charge are final.</li>
     <li>Food and non-alcoholic beverages are allowed for pool parties, with the Pool Manager's approval. The host is responsible for all clean-up to the pool area. The host is also responsible for damages resulting from the party.</li>
 </ol></p>
