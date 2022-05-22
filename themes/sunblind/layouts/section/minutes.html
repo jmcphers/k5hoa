@@ -8,12 +8,14 @@
 
 <h2>HOA Meeting Minutes Archive</h2>
 {{ range (where .Site.Pages "Type" "minutes") }}
-  {{ if not (isset .Params "title") }}
-    <a href="../pdf/minutes/{{ .Date.Format "2006_01_02" }}.pdf" class="meeting-thumbnail">
-        <img src="../img/k5-lion-small.png" style="width: 20px; margin-bottom: 15px;" /><br />
-        {{ .Date.Format "January 2, 2006" }}
-    </a>
-  {{ end }}
+  {{ if gt (.Params.Date.AddDate 2 0 0) now }}
+      {{ if not (isset .Params "title") }}
+        <a href="../pdf/minutes/{{ .Date.Format "2006_01_02" }}.pdf" class="meeting-thumbnail">
+            <img src="../img/k5-lion-small.png" style="width: 20px; margin-bottom: 15px;" /><br />
+            {{ .Date.Format "January 2, 2006" }}
+        </a>
+      {{ end }}
+    {{ end }} 
 {{ end }}
 
 </div>
