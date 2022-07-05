@@ -1,6 +1,6 @@
 +++
 date = "2022-07-04"
-title = "Kingsgate 5 Fun and Summer Neighborhood Party"
+title = "Kingsgate 5 Fun and Sun Summer Party"
 expirydate = "2022-08-08"
 +++
 
