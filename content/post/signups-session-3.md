@@ -1,6 +1,7 @@
 +++
 date = "2022-07-06"
 title = "Swim Lesson Session 3 Signups"
+expirydate = "2022-07-26"
 +++
 
 Sign ups are now available online for Session 3 of swim lessons (July 18th - 28th)! Follow the link below:
