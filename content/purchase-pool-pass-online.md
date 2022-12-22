@@ -4,7 +4,7 @@ title = "Purchase Pool Pass"
 banner = "img/botanic2-backdrop.jpg"
 +++
 
-<p>Use this form to pay for your 2023 pool pass. Pool passes for the 2023 season are $625.00; a credit card transaction fee has been added to the online payment amount.</p>
+<p>Use this form to pay for your 2023 pool pass. Pool passes for the 2023 season are $682.00; a credit card transaction fee has been added to the online payment amount.</p>
 
 <div class="alert alert-info" role="alert">Only approved 2023 pass holders can pay for their passes here. If you are still on the waitlist, you must wait until a pass becomes available before paying for it.</div>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
