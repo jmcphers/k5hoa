@@ -9,7 +9,7 @@ As a community, Kingsgate Five has spent 2022 bringing back some of our old favo
 
 Keep up to date with HOA news and activities here at our website.
 
-The 2023 annual meeting will be held in person at John Muir Elementary Library on Monday, January 23, 2023 from 7:00 - 9:00pm. The library will open at 6:30pm to allow time to check-in and assure a quorum prior to the 7pm meeting start.
+The 2023 annual meeting will be held in person at **John Muir Elementary Library** on **Monday, January 23, 2023 from 7:00 - 9:00pm**. The library will open at 6:30pm to allow time to check-in and assure a quorum prior to the 7pm meeting start.
 
 I would like to thank all members of our association. Without you there would be no community. And I would like to thank especially the members who have participated in our events, brought ideas or proposals to the board, or provided the board feedback throughout the year. 
 
