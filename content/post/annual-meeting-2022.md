@@ -1,6 +1,6 @@
 +++
 title = "Annual Meeting and Proxy"
-date = "2022-12-21T21:53:21-08:00"
+date = "2022-12-20T21:53:21-08:00"
 +++
 
 Greetings Fellow Kingsgate Five Homeowner, 
