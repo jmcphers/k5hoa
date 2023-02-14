@@ -4,8 +4,6 @@ date = "2023-02-12"
 expirydate = "2023-05-01"
 +++
 
-### Interested in Swim Team?
-
 The Kingsgate Five Pool is home to the Kingsgate Gators Swim Team. The Kingsgate Gators Swim Team is a summer recreational swim team made up of swimmers ranging in ages from 6 to 18. The Gators are open to all swimmers although those who live in the neighborhood or have a pool membership get priority registration. Swim season begins each year in mid-May and continues through July. We are part of the Midlakes Swim League, which includes 26 teams in the region. The primary focus of our program is to encourage the sport of swimming for all ages and abilities with an emphasis on technique, sportsmanship, and fun. There are typically 10 swim meets (5 home and 5 away) during the regular season held on Tuesday and Thursday evenings along with practices 4-5 days a week depending on age of the swimmer. Practices are held in the evening while school is in session and then switches to morning after school lets out for the summer. The Gators are managed by a volunteer board. 
 
 We invite you to learn more and join the team! The board will be holding an informational session for interested families on March 8th at 7pm via zoom.
@@ -20,9 +18,13 @@ Meeting ID: 875 2671 3362
 
 Passcode: 428677
 
+<br />
+
 ### Registration for the 2023 Season
 
 Gator registration will open March 13th and close on March 24th. <https://kingsgategators.swimtopia.com/>
+
+<br />
 
 ### Gator Kids
 
@@ -31,6 +33,8 @@ The Gator Kids program is designed to give kids 4 to 6 years of age the chance t
 For additional information, visit https://kingsgategators.swimtopia.com/
 
 Contact: For questions and contact, this years’ team parents will be Ashley Gillen (<teamparent.kgg@gmail.com>) and Donna Scotti (<teamparent2.kgg@gmail.com>). For the rest of the Gator board contact info, visit https://kingsgategators.swimtopia.com/about. 
+
+<br />
 
 ### Interested in working at the pool?
 
