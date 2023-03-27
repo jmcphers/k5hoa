@@ -36,9 +36,5 @@ Contact: For questions and contact, this years’ team parents will be Ashley Gi
 
 <br />
 
-### Interested in working at the pool?
-
-The pool is hiring lifeguards and swim instructors for the 2023 pool season. No experience is necessary. Minimum age is 15 and current lifeguard certification (or by June 1st 2023). Please email your resume to <sarah@starrdesign.com> by March 30th.
-
 See you at the pool. Go Gators!
 
