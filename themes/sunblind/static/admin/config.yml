@@ -27,3 +27,4 @@ collections:
         widget: "markdown"
         required: true
         hint: ""
+    sortable_fields: ['date']
