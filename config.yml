@@ -1,0 +1,29 @@
+backend:
+  name: github
+  branch: master
+  repo: jmcphers/k5hoa
+media_folder: "static/img/uploads"
+public_folder: "/img/uploads"
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/post"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        hint: "The title of the blog post."
+        required: true
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        date_format: "YYYY-MM-DD"
+        hint: "The date of the blog post"
+        required: true
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        required: true
+        hint: ""
