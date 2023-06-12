@@ -1,6 +1,6 @@
 +++
-date = "2023-05-20"
 title = "Preschool Swim Lesson Signups"
+date = "2023-05-20"
 +++
 
 Sign ups are now available online for preschool swim sessions for age 2-4 year olds.
