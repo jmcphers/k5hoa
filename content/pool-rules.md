@@ -15,6 +15,8 @@ banner = "img/pool.jpg"
 
 <li><p>Improper bathing attire is not allowed in the pool. The decision of the Pool Manager or Senior guard on duty shall be final with respect to improper attire.</p></li>
 
+<li><p>No changing on deck (i.e. babies and children). Please use the restroom changing areas.</p></li>
+
 <li><p>All swimmers with long hair must have it secured appropriately, such as a braid or pony tail.  </p></li>
 
 <li><p>Non-potty-trained swimmers MUST wear a swim diaper and cover at the pool at ALL times; no regular disposable or cloth diapers are permitted in the pool.</p></li>
@@ -27,7 +29,7 @@ banner = "img/pool.jpg"
 
 <li><p>Children under 12 years of age who do not pass a basic swimming test administered by the pool staff, must be accompanied by an adult or a qualified swimmer whenever using the pool. Qualified swimmers must be approved by the Pool Manager or the Senior guard on duty. Children under 9 years old must be accompanied by an adult or an authorized guardian while using the pool. Children 9 and older can come to the pool by themselves if they have passed the swim test AND completed an emergency contact form.</p></li>
 
-<li><p>Any child using the wading pool must be accompanied by an adult, 18 years of age or older, at all times. No other persons are allowed in this area. Exception is given to care-givers who have the proper authorization from the parents and pool management.</p></li>
+<li><p>Any child using the wading pool must be accompanied by an adult, 18 years of age or older, at all times. No other persons are allowed in this area. Exception is given to care-givers who have the proper authorization from the parents and pool management. The wading pool is for young children under 4 years and siblings. Baby pool/wading pool is to be empty during break time.</p></li>
 
 <li><p>No pets allowed in the pool house or pool area.</p></li>
 
@@ -67,8 +69,8 @@ banner = "img/pool.jpg"
 
 <li>Guests are bound by all regular rules plus those in this section.
 <ol type="a">
-    <li>Each lot/permit holder is limited to **four** guests at any one time during the normal operating hours of the pool.</li>
-    <li>There will be a guest fee of $5 for each guest. An exception is made for those homeowners who pay their dues in full at the beginning of each calendar year. Guest fees are set by the Board of Trustees each year at the October Budget Meeting. Homeowners and permit holders will be notified of the fee through the newsletter. Pool Pass Purchasers are excluded from free guests.</li>
+    <li>Each lot/permit holder is limited to **four** guests at any one time during the normal operating hours of the pool. Grandchildren are free, but still count as a guest.</li>
+    <li>There will be a guest fee of $6 for each guest. An exception is made for those homeowners who pay their dues in full at the beginning of each year. Guest fees are set by the Board of Trustees each year at the October Budget Meeting. Homeowners and permit holders will be notified of the fee through the newsletter. Pool Pass Purchasers are excluded from free guests.</li>
     <li>Guest fees shall not be imposed on visiting swim team members participating against the Kingsgate Gators swim team at a meet.</li>
     <li>All guests must be accompanied by a member or permit holder at all times. Guest names and addresses shall be recorded along with time and date of registration in the log book at the registration desk.</li>
     <li>Homeowner house guests who have stayed 72 hours or more will be considered family members if they have been registered as such with the pool management. House guests, however, may not bring guests to the pool. Pool Pass Purchasers are excluded from this.</li>
