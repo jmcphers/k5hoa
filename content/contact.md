@@ -25,24 +25,20 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 ## Board Members
 
-{{< person img="../img/board/jeff.jpg" name="Jeff Campeau" title="President" email="president@kingsgate5.com" >}}
+{{< person img="../img/board/sarah-curde.jpg" name="Sarah Curde" title="President" >}}
 
-{{< person img="../img/board/sarah-curde.jpg" name="Sarah Curde" title="Vice President" >}}
+{{< person img="../img/board/essex.jpeg" name="Essex Speckhals" title="Vice President">}}
 
 {{< person img="../img/board/ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
 
-{{< person name="Essex Speckhals" title="At Large" img="../img/board/essex.jpeg" >}}
+{{< person name="Meighan Lailey" title="Secretary" email="secretary@kingsgate5.com" >}}
 
-{{< person img="../img/board/james.jpg" name="James Weinrod" title="Secretary" email="secretary@kingsgate5.com" >}}
-
-{{< person img="../img/board/bill.jpg" name="Bill Keating" title="Park Trustee" >}}
-
-{{< person img="../img/board/sarah.jpg" name="Sarah Starr" title="Pool Trustee" email="pool@kingsgate5.com" >}}
+{{< person img="../img/board/carissa.jpg" name="Carissa Haws" title="Parks and Recreation" >}}
 
 {{< person img="../img/board/alan.jpg" name="Alan Nelson" title="Compliance" email="compliance@kingsgate5.com" >}}
 
-{{< person img="../img/board/dan-hairless.jpg" name="Dan Lund" title="Facilities" >}}
+{{< person img="../img/board/sarah.jpg" name="Sarah Starr" title="Pool Trustee" email="pool@kingsgate5.com" >}}
 
-{{< person img="../img/board/carissa.jpg" name="Carissa Haws" title="Recreation" >}}
+{{< person img="../img/board/bill.jpg" name="Bill Keating" title="At Large" >}}
 
 
