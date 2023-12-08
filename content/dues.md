@@ -19,7 +19,7 @@ function checkForm() {
 }
 </script>
 
-The Kingsgate Five HOA dues for 2023 are $537 per year. Payment is due in full by March 31, 2023. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
+The Kingsgate Five HOA dues for 2024 are $553 per year. Payment is due in full by March 31, 2024. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
 
 The HOA does not offer refunds; all transactions are final.
 
