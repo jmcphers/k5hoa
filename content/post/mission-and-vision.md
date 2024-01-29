@@ -3,15 +3,15 @@ title = "Mission and Vision Statement"
 date = "2024-01-27T10:00:21-08:00"
 +++
 
-<h3>Vision Statement</h3> 
+<h4>Vision Statement</h4> 
 
 We envision a community of increasing appeal and continuing functional value, one that is in high demand by prospective property owners because of the well-maintained lots and the reputation, quality, and curb appeal of the Association. We see our neighborhood as one that offers great quality of life and is considered by the residents and surrounding neighborhoods to be an affordable and desirable place in which to live, where all owners can benefit from a good return on their investment.
 
-<h3>Mission Statement</h3>
+<h4>Mission Statement</h4>
 
 The mission of the Board of Trustees for Kingsgate V Homeowners Association (K5) is to preserve and enhance the property of our association by maintaining the common areas, and upholding our Covenants, Conditions and Restrictions (CCR's) and By-Laws. The board will serve the Homeowners by taking a fair, ethical, and objective approach in representing the interests of all homeowners. K5 will be maintained as a safe, friendly, and enjoyable place to live for each homeowner and their respective family. The board will enforce the K5 By-Laws & CCR's while providing ethical and fiscally responsible solutions to promote a sense of community, to enhance our property values, and plan for the future. 
 
-<h3>Values</h3>
+<h4>Values</h4>
 
 In fulfilling our mission and achieving our vision we value honesty, fairness, firmness, equity, efficiency, transparency, common sense, participation, respect, cooperation, and neighborliness in all our actions.
 
