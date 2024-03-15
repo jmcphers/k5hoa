@@ -1,6 +1,6 @@
 +++
 title = "2024 Kingsgate 5 Easter Egg Hunt"
-date = "2023-03-14"
+date = "2024-03-14"
 +++
 
 We are incredibly excited to announce that the HOA will be hosting The Annual Easter Egg Hunt on Saturday, March 30th at 10:00 AM **SHARP** for all Kingsgate 5 residents and homeowners. We suggest arriving 5 minutes early so that your kids are in place right when the hunt begins. If you’ve attended in the past, you know how quickly it ends! Please convene in the following areas depending on your child(s) age. 
