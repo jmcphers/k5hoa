@@ -36,7 +36,7 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board/sarah.jpg" name="Sarah Starr" title="Pool Trustee" email="pool@kingsgate5.com" >}}
 
-{{< person name="Shelby Dickenson" title="Compliance" email="compliance@kingsgate5.com" >}}
+{{< person img="../img/board/shelby.jpg" name="Shelby Dickinson" title="Compliance" email="compliance@kingsgate5.com" >}}
 
 {{< person img="../img/board/bill.jpg" name="Bill Keating" title="Park Trustee" >}}
 
