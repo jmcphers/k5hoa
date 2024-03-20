@@ -11,13 +11,13 @@ banner = "img/pool.jpg"
 
 <li><p>Certified lifeguards must be on duty during all regular pool hours. A minimum of two guards must be in attendance for every 25 people swimming in the pool. Three guards must be on duty for swimming attendance between 25 and 100 people. There shall be no more than 100 swimmers in the pool at any one time.</p></li>
 
-<li><p>All persons entering the pool, including guests, must register at the front desk and furnish their name, lot number, Pool Use Permit number and/or address to the attendant on duty.</p></li>
+<li><p>All persons entering the pool, including guests, must register at the front desk and furnish their name, lot number, Pool Use Permit number and/or address to the attendant on duty. Guests and grandchildren must be at the pool with the HOA or pool pass purchaser the entire time using the pool. </p></li>
 
 <li><p>Improper bathing attire is not allowed in the pool. The decision of the Pool Manager or Senior guard on duty shall be final with respect to improper attire.</p></li>
 
-<li><p>No changing on deck (i.e. babies and children). Please use the restroom changing areas.</p></li>
+<li><p>No diaper or clothing changing on deck (i.e. babies and children). Please use the restroom changing areas.</p></li>
 
-<li><p>All swimmers with long hair must have it secured appropriately, such as a braid or pony tail.  </p></li>
+<li><p>All swimmers with long hair must have it secured appropriately, such as a braid or ponytail.  </p></li>
 
 <li><p>Non-potty-trained swimmers MUST wear a swim diaper and cover at the pool at ALL times; no regular disposable or cloth diapers are permitted in the pool.</p></li>
 
