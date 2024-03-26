@@ -42,5 +42,5 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person img="../img/board/sarah-curde.jpg" name="Sarah Curde" title="Recreation" >}}
 
-{{< person name="Dave Williams" title="Compliance" >}}
+{{< person img="../img/board/dave.jpg" name="Dave Williams" title="Compliance" >}}
 
