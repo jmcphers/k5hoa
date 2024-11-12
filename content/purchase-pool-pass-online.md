@@ -4,15 +4,15 @@ title = "Purchase Pool Pass"
 banner = "img/botanic2-backdrop.jpg"
 +++
 
-<p>Use this form to pay for your 2024 pool pass. Pool passes for the 2024 season are $748.00; a credit card transaction fee has been added to the online payment amount.</p>
+<p>Use this form to pay for your 2025 pool pass. Pool passes for the 2025 season are $774.60; a credit card transaction fee has been added to the online payment amount.</p>
 
-<div class="alert alert-info" role="alert">Only approved 2024 pass holders can pay for their passes here. If you are still on the waitlist, you must wait until a pass becomes available before paying for it.</div>
+<div class="alert alert-info" role="alert">Only approved 2025 pass holders can pay for their passes here. If you are still on the waitlist, you must wait until a pass becomes available before paying for it.</div>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="XVCCMZ2UHZJ7A">
+<input type="hidden" name="hosted_button_id" value="TH4FYLMBB9C7Q">
 <table>
-<tr><td><input type="hidden" name="on0" value="2024 Pool Pass">2024 Pool Pass</td></tr><tr><td><select name="os0" style="margin-bottom: 20px;">
+<tr><td><input type="hidden" name="on0" value="2025 Pool Pass">2025 Pool Pass</td></tr><tr><td><select name="os0" style="margin-bottom: 20px;">
 <option value="Pool Pass">Pool Pass $774.60 USD</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="Last Name">Last Name</td></tr><tr><td><input type="text" name="os1" maxlength="200" style="margin-bottom: 20px;"></td></tr>
