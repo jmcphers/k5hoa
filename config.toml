@@ -6,7 +6,7 @@ googleAnalytics = "UA-75449743-1"
 [Params]
   Subtitle = "Homeowner's Association"
   FacebookLink = "https://www.facebook.com/kingsgate5/"
-  Copyright = "Copyright &copy; 2024 Kingsgate Five Homeowner's Association. <a href='/about/'>About the site</a>." 
+  Copyright = "Copyright &copy; 2025 Kingsgate Five Homeowner's Association. <a href='/about/'>About the site</a>." 
   Headers = [ "img/botanic1-backdrop.jpg", "img/botanic2-backdrop.jpg", "img/botanic3-backdrop.jpg", "img/botanic4-backdrop.jpg", "img/botanic5-backdrop.jpg", "img/botanic6-backdrop.jpg", "img/botanic7-backdrop.jpg", "img/satellite-backdrop.jpg" ]
   Bio = "The Kingsgate 5 Homeowners Association serves <a href=\"/img/neighborhood-map.jpg\">over 300 homes</a> in the Kingsgate community located where Kirkland and Woodinville meet. Our neighborhood is also home of the <a href=\"https://kingsgategators.swimtopia.com/\">Kingsgate Gators swim team</a>."
   Tags = "kingsgate, kingsgate five, kingsgate 5, hoa, homeowner's association, kirkland"
