@@ -28,8 +28,6 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person name="Luke Ritting" title="President" >}}
 
-{{< person img="../img/board/essex.jpeg" name="Essex Speckhals" title="Vice President">}}
-
 {{< person img="../img/board/susan.jpg" name="Susan Schilling" title="Secretary" email="secretary@kingsgate5.com" >}}
 
 {{< person img="../img/board/ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
