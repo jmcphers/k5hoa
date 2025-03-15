@@ -1,6 +1,7 @@
 +++
 title = "2025 Pool Waitlist"
 date = "2025-01-01"
+draft = true
 +++
 
 The 2025 pool pass waitlist is now open! Click the link below to join it:
