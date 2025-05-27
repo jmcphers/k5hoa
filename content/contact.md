@@ -28,17 +28,17 @@ To e-mail the Kingsgate Five board, you may send a message to:
 
 {{< person name="Luke Ritting" title="President" >}}
 
-{{< person img="../img/board/susan.jpg" name="Susan Schilling" title="Secretary" email="secretary@kingsgate5.com" >}}
-
 {{< person img="../img/board/ashley.jpg" name="Ashley Gillen" title="Treasurer" email="treasurer@kingsgate5.com" >}}
+
+{{< person img="../img/board/royal.jpg" name="Royal Hanson" title="Secretary" email="secretary@kingsgate5.com" >}}
 
 {{< person img="../img/board/sarah.jpg" name="Sarah Starr" title="Pool Trustee" email="pool@kingsgate5.com" >}}
 
 {{< person img="../img/board/shelby.jpg" name="Shelby Dickinson" title="Compliance" email="compliance@kingsgate5.com" >}}
 
-{{< person img="../img/board/bill.jpg" name="Bill Keating" title="Park Trustee" >}}
-
 {{< person img="../img/board/sarah-curde.jpg" name="Sarah Curde" title="Recreation" >}}
 
 {{< person img="../img/board/dave.jpg" name="Dave Williams" title="Compliance" >}}
+
+{{< person name="Kelly Stowe" title="Member at Large" >}}
 
