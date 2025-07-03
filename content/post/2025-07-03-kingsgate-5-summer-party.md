@@ -1,6 +1,6 @@
 ---
 title: Kingsgate 5 Summer Gathering
-date: 2024-07-22T10:00:00.728Z
+date: 2025-07-02T10:00:00.728Z
 ---
 Mark your calendars for this year's Summer Gathering, August 7th from 6pm - 8:30pm!
 
