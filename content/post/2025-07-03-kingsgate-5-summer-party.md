@@ -1,8 +1,8 @@
 ---
-title: Kingsgate 5 Summer Gathering
+title: Kingsgate 5 Summer Party
 date: 2025-07-02T10:00:00.728Z
 ---
-Mark your calendars for this year's Summer Gathering, August 7th from 6pm - 8:30pm!
+Mark your calendars for this year's Summer Party, August 7th from 6pm - 8:30pm!
 
 <img src="img/k5hoa-summer-party-2025.png" style="max-width: 100%;"/>
 
