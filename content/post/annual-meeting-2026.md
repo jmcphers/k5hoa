@@ -26,7 +26,7 @@ I also want to recognize and thank the board members who volunteered their time 
 
 ### Annual Meeting
 
-The 2026 Annual Meeting will be held on Monday, January 26, 2026, from 7:00–9:00 pm at John Muir Elementary Library (doors open at 6:30 pm for check-in). We’ll review the past year, vote on the 2026 budget, and hold board elections. If you’d like to join the board or nominate someone, let us know ahead of the meeting or during elections. If you’re unable to attend, please return your enclosed proxy ballot by January 20, 2026, either by mail or at the pool dropbox.
+The 2026 Annual Meeting will be held on **Monday, January 26, 2026, from 7:00–9:00** pm at **John Muir Elementary Library** (doors open at **6:30** pm for check-in). We’ll review the past year, vote on the **2026 budget**, and hold **board elections**. If you’d like to join the board or nominate someone, let us know ahead of the meeting or during elections. If you’re unable to attend, please return your enclosed proxy ballot by **January 20, 2026**, either by mail or at the pool dropbox.
 
 Thank you again to the board and to all homeowners for helping sustain a strong community. I look forward to seeing many of you at the annual meeting as we plan for another successful year.
 
