@@ -11,6 +11,8 @@ This year, the HOA focused on maintaining and improving the amenities that serve
 
 Your input directly shapes what we prioritize next. Please take a few minutes to [complete the community survey](https://docs.google.com/forms/d/e/1FAIpQLSdocFUlLf8KC_NDqp2geo1f68dW0nv_lMbmCfJvtQzhyb9w8A/viewform), and provide your feedback to the board.
 
+<a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSdocFUlLf8KC_NDqp2geo1f68dW0nv_lMbmCfJvtQzhyb9w8A/viewform">Kingsgate 5 Community Survey 2025</a>
+
 I also want to recognize and thank the board members who volunteered their time and effort this year:
 
 - Essex Speckhals – Vice President
