@@ -19,7 +19,7 @@ function checkForm() {
 }
 </script>
 
-The Kingsgate Five HOA dues for 2025 are $570 per year. Payment is due in full by March 31, 2025. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
+The Kingsgate Five HOA dues for 2026 are $583 per year. Payment is due in full by March 31, 2026. You may choose to pay either online or via a mailed check. If you're unsure about the status of your account, [contact the HOA treasurer]({{< relref "contact.md" >}}).
 
 The HOA does not offer refunds; all transactions are final.
 
@@ -30,13 +30,13 @@ Fill out the form below to pay your dues online with PayPal. A convenience fee o
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" onSubmit="return checkForm();" target="_top">
 
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="TPGLEPHLY2UN6">
-<input type="hidden" name="on0" value="2025 HOA Dues">
+<input type="hidden" name="hosted_button_id" value="ML26JSY439HQJ">
+<input type="hidden" name="on0" value="2026 HOA Dues">
 
-<strong>2025 HOA Dues</strong><br>
+<strong>2026 HOA Dues</strong><br>
 
 <select name="os0">
-  <option value="Annual">Annual $589.95 USD</option>
+  <option value="Annual">Annual $603.41 USD</option>
   <option value="Late Fee">Late Fee $40.00 USD</option>
 </select> 
 <br />
@@ -69,4 +69,3 @@ To pay your dues via check, make out a check to **Kingsgate Five Homeowners Asso
 </div>
 
 When making a payment via check, ensure your lot number is visible, preferably written in the check's memo field.
-
