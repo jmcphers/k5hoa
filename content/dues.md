@@ -58,6 +58,10 @@ Fill out the form below to pay your dues online with PayPal. A convenience fee o
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+## Pay Dues via Zelle
+
+Alternatively, send payment via Zelle to <treasurer@kingsgate5.com> and include your lot number in the notes. There is no added fee with Zelle. 
+ 
 ## Pay Dues via Check
 
 To pay your dues via check, make out a check to **Kingsgate Five Homeowners Assoc.** and mail it to the following address:
