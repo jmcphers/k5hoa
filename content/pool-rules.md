@@ -11,7 +11,7 @@ banner = "img/pool.jpg"
 
 <li><p>Certified lifeguards must be on duty during all regular pool hours. A minimum of two guards must be in attendance for every 25 people swimming in the pool. Three guards must be on duty for swimming attendance between 25 and 100 people. There shall be no more than 100 swimmers in the pool at any one time.</p></li>
 
-<li><p>All persons entering the pool, including guests, must register at the front desk and furnish their name, lot number, Pool Use Permit number and/or address to the attendant on duty. Guests and grandchildren must be at the pool with the HOA or pool pass purchaser the entire time using the pool. </p></li>
+<li><p>All persons entering the pool, including guests, must register at the front desk and furnish their name, lot number, Pool Use Permit number and/or address to the attendant on duty. Guests and grandchildren must be at the pool with the HOA or pool pass purchaser the entire time using the pool.</p></li>
 
 <li><p>Improper bathing attire is not allowed in the pool. The decision of the Pool Manager or Senior guard on duty shall be final with respect to improper attire.</p></li>
 
@@ -41,7 +41,7 @@ banner = "img/pool.jpg"
 
 <li><p>Running is not allowed on the pool decks, walkways, or in the pool house.</p></li>
 
-<li><p>No one under the age of 9 will be allowed in the deep end of the pool without an adult 18 years or older unless they are diving or participating in lap swim. All other young swimmers must first pass the swim test before being allowed in the deep end.</p></li>
+<li><p>No one under the age of 12 will be allowed in the deep end of the pool without an adult 18 years or older(within arm’s reach), unless they are participating in lap swim/swim team. All other young swimmers from 7-12 years old, must first pass the swim test before being allowed in the deep end. </p></li>
 
 <li><p>Lifeguards shall have the right to restrict swimmers of limited ability to the shallow water.</p></li>
 
@@ -61,9 +61,9 @@ banner = "img/pool.jpg"
 
 <li>Swim Team:
 <p><ol type="a">
-    <li>The Kingsgate Gators swim team may use the pool for practice on a daily basis, Monday through Thursday. Special arrangements may be made to start the week before the Pool opens, otherwise the practice commences on the first day that the pool is open each season. When local public schools are still in session, the swim team will be limited to four hour practice sessions on weekday evenings. During local public school summer break, the workout schedule will be from 6:00 to 9:00 am weekdays. Special arrangements may be made to practice on Saturdays mornings.  Adjustments to the above schedule must be approved by the Pool Manager.</li>
-    <li>When the swim team is using the pool, qualified individuals must be on site who are CERTIFIED WATER SAFETY INSTRUCTORS and have advanced lifesaving cards from the American Red Cross. </li>
-    <li>The swim team may schedule exclusive use of the pool during normal hours for no more than six evening meets per season starting no earlier than 4:00 pm. The team may also use the pool for one daytime meet per season on either Saturday or Sunday for a Championship meet. The team shall present the Pool Manager with a request in advance to reserve the pool for swim meets.</li>
+    <li>The Kingsgate Gators swim team may use the pool for practice daily, Monday through Friday. Special arrangements may be made to start the week before the Pool opens, otherwise the practice commences on the first day that the pool is open each season. When local public schools are still in session, the swim team will be limited to four-3.75-hour practice sessions on weekday evenings. During local public school summer break, the workout schedule will be from 6:00 to 9:45am weekdays. Special arrangements may be made to practice on Saturday’s mornings. Adjustments to the above schedule must be approved by the Pool Manager.</li>
+    <li>When the swim team is using the pool, qualified individuals must be on site who are lifeguard certified and have advanced lifesaving cards from the American Red Cross. </li>
+    <li>The swim team may schedule exclusive use of the pool during normal hours for no more than six evening meets per season starting no earlier than 4:00 pm. The team may also use the pool for one daytime meet per season on either Saturday or Sunday for a Championship meet. The team shall present the Pool Manager a request in advance for swim meets.</li>
 </ol></p>
 </li>
 
